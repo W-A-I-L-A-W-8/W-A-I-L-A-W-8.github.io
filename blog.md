@@ -2,6 +2,7 @@
 layout: default
 published: true
 navigation_weight: 4
+published: true
 ---
 
 <div class="posts">
