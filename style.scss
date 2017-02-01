@@ -69,12 +69,16 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $accent;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $accent;
   }
+}
+
+a.active {
+    color: $accent;
 }
 
 ul, ol {
@@ -233,7 +237,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $accent;
     }
   }
 }
