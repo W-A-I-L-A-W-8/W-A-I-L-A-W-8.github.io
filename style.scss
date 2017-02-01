@@ -31,16 +31,16 @@ body {
 }
 
 .button {
-    margin: 15px 8px;
-    padding: 5px 15px;
+    margin: 15px 0;
+    padding: 10px 15px;
     background-color: transparent;
     border-radius: 1000px;
     border: 1px solid $accent;
-    
-    :hover &:active {
-        background-color: $accent;
-        color: $white;
-    }
+}
+
+.button:hover, &:active {
+    background-color: $accent;
+    color: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -250,14 +250,15 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
     
-    :hover, &:active {
-      border-bottom: 2px solid $accent;
-    }
     @include mobile {
       margin: 0 10px;
       color: $accent;
     }
   }
+}
+
+nav a:hover {
+  border-bottom: 2px solid $accent;
 }
 
 //
