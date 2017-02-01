@@ -31,9 +31,15 @@ body {
 }
 
 .button {
-    padding: 20px 15px;
+    margin: 15px 8px;
+    padding: 5px 15px;
     border-radius: 1000px;
-    border: 1px dotted $accent;
+    border: 1px solid $accent;
+    
+    :hover &:active {
+        background: $accent;
+        color: $white;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -81,7 +87,6 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $accent;
-    border-bottom: 3px solid $accent;
   }
 }
 
@@ -243,7 +248,10 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-
+    
+    :hover, &:active {
+      border-bottom: 2px solid $accent;
+    }
     @include mobile {
       margin: 0 10px;
       color: $accent;
@@ -287,7 +295,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px dotted $accent;
+  border-top: 1px solid $accent;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }

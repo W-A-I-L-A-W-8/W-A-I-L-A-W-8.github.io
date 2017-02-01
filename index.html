@@ -4,8 +4,14 @@ published: true
 ---
 
 <h1>Travel Industry Web Services</h1>
-I'm Wai, I specialise in travel related website design and front end development. I can help with better engagement, increased conversions and improved experience through data and testing.
-<p><a class="button" href="enquiry">Start a porject</a></p>
+I'm Wai, I specialise in travel related website design and front end development. I can help with engagement, increased conversions and improved experience through data and testing.
+<p><a class="button" href="enquiry">Start a project</a></p>
 <hr>
 <h3>My Scribbles</h3>
 <p>I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe of interest. You can enjoy some of these short snippets <a href="blog">here ></a></p>
+
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
