@@ -36,12 +36,14 @@ body {
     background-color: transparent;
     border-radius: 1000px;
     border: 1px solid $accent;
-}
-
-.button:hover, &:active {
+    
+    a:hover, &:active {
     background-color: $accent;
     color: $white;
+  }
 }
+
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
