@@ -6,7 +6,7 @@ published: true
 navigation_weight: 2
 ---
 
-A bit of info about myself!
+# A bit of info about myself!
 
 I am a business Grad, self-taught Web Designer, Front End Developer & Video Editor supporting the travel industries. I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 

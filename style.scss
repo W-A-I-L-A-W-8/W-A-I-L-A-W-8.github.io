@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 15px/1.4 $helveticaNeue;
   color: $darkGray;
 }
 
@@ -30,10 +30,17 @@ body {
   width: 100%;
 }
 
+.button {
+    padding: 20px 15px;
+    border-radius: 1000px;
+    border: 1px dotted $accent;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: lighter;
+  text-transform: uppercase;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -45,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 36px;
   a {
     color: inherit;
   }
@@ -74,6 +81,7 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $accent;
+    border-bottom: 3px solid $accent;
   }
 }
 
@@ -156,6 +164,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  border-top: 5px solid $accent;
 }
 
 .masthead {
@@ -278,7 +287,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
+  border-top: 1px dotted $accent;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
