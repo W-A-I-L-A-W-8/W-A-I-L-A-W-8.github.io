@@ -1,6 +1,9 @@
 ---
+layout: post
+title: Loading more than one Google font in one request
 published: true
 ---
+
 Loading more than one Google font in one request can help to speed up page load time and keep your code tidy.
 
 ### How is it done?
