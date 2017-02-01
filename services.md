@@ -2,6 +2,7 @@
 layout: page
 title: Services
 permalink: /services/
+navigation_weight: 3
 published: true
 ---
 
