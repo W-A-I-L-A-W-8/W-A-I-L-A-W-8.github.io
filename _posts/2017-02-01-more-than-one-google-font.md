@@ -8,7 +8,7 @@ Loading more than one Google font in one request can help to speed up page load 
 ### How is it done?
 In the head of your HTML add:
 
-**<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />**
+```<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />```
 
 As you can see each font is divided by the character **|**.
 
