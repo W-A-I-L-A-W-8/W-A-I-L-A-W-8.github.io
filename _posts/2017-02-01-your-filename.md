@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Loading more than one Google font in one URL request
 
