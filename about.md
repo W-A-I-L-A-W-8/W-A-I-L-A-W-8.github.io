@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A bit of info about myself!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a business Grad, self-taught Web Designer, Front End Developer & Video Editor supporting the travel industries. I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 
-### Contact me
+### Get in Touch
 
-[email@domain.com](mailto:email@domain.com)
+[hello@wailaw.me](mailto:hello@wailaw.me)
