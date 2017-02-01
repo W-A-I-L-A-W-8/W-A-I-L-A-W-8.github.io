@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Blog
+permalink: /blog/
 published: true
 navigation_weight: 4
-published: true
 ---
 
 <div class="posts">
