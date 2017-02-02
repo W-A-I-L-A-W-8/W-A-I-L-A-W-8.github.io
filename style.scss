@@ -284,6 +284,10 @@ blockquote {
   color: $gray;
   font-size: 17px;
   font-style: italic;
+    img {
+        float: left;
+        border-radius: 50%;
+    }
 }
 
 .wrapper-footer {

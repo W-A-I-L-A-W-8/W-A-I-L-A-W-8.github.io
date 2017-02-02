@@ -23,8 +23,7 @@ I enjoy building sites that are functional with substance over style. I practice
 My Father and Uncles are all business owners so having grown up around them I guess I have adopted their commercial mindedness and I approach web design with this same mindset. My aim is to deliver high quality designs to schedule, solve client problems and allow their users to have the best possible experience online.
 
 ### Get in Touch
-
 [hello@wailaw.me](mailto:hello@wailaw.me)
 
 ### My Scribbles
-I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](/enquiry/)
+I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](/blog/)
