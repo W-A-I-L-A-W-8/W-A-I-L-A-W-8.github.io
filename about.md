@@ -25,5 +25,14 @@ My Father and Uncles are all business owners so having grown up around them I gu
 ### Get in Touch
 [hello@wailaw.me](mailto:hello@wailaw.me)
 
+
+> ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
+>
+> I have worked with Wai on a number of projects, including building a website, SEO consultancy and video production. He is quick, efficient and a pleasure to work with. On a number of 
+> occasions he came up with innovative problem-solving solutions which contributed greatly to the successful outcome of the projects. I would not hesitate in recommending his services. 
+>
+> __Michael Pullman__, Marketing Manager, Wild Frontiers Travel
+
+
 ### My Scribbles
-I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](/blog/)
+I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](//)
