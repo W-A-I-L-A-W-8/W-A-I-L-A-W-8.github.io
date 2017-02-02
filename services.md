@@ -33,10 +33,7 @@ Develop reusable theme templates. Work towards the best user experience. Simplic
 ### Video
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. <a href="video">Read more ></a>
                     
-                    
-## Get in Touch
 
-[hello@wailaw.me](mailto:hello@wailaw.me)
 
 ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 
