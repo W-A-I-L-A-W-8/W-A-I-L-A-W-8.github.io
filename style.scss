@@ -278,17 +278,17 @@ nav {
 }
 
 blockquote {
-  margin: 1.8em .8em;
-  padding: 0.1em 1em;
-  width: 70%;
+  margin: 0 60px;
+  padding: 1em 0.1em;
   color: $gray;
+  border-top: 1px dotted $gray;
   text-align: center;
   font-size: 14px;
   font-family: $georgia;
   font-style: italic;
   letter-spacing: 2px;
     img {
-        max-width: 70%;
+        max-width: 60%;
         border-radius: 50%;
     }
 }
