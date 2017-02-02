@@ -35,8 +35,7 @@ Short travel promotions. Video to make your pages more appealing and to offer an
                     
 
 
-![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
-
+> ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 > I contacted Wai to help me with my website after beign frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a 
 > number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
 >
