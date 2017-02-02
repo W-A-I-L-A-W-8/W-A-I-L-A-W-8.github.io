@@ -28,7 +28,9 @@ My Father and Uncles are all business owners so having grown up around them I gu
 ### My Scribbles
 I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](https://w-a-i-l-a-w-8.github.io/)
 
+
 _ _ _
+
 
 > ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
 >
