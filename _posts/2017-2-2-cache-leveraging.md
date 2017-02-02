@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP code for updating the year automatically in WordPress
+title: Cache Leveraging
 published: true
 navigation_weight: 1
 ---

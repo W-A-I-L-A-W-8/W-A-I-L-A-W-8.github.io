@@ -7,7 +7,8 @@ published: true
 # Why Video?
 [![Why Video?](http://img.youtube.com/vi/VgIPMffAnoo/0.jpg)](http://www.youtube.com/watch?v=VgIPMffAnoo)
 
-## Marketing Videos
+## Videos are great for marketing
+
 ### Turn your unused travel footage into short promotional films
 Video is an effective medium for conveying your brand's message quickly. Viewers retain 95% of a message.
 
@@ -24,6 +25,7 @@ It helps to see with your own eyes what you plan to purchase. Video offers great
 
 
 ## work with me
+
 #### Let video help your business
 Let me create a narrative from your best clips and edit them into entertaining destination videos that will increase traffic to your site. With video you can make your pages more appealing and use it as an effective channel for promoting your products and services. Think of video as a an effective tool for higher conversion ratios and attracting more visitors to your site.
 
