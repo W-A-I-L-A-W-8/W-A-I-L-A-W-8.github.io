@@ -282,11 +282,12 @@ blockquote {
   border-left: 2px solid $lightGray;
   padding: 0.1em 1em;
   color: $gray;
-  font-size: 17px;
+  font-size: 19px;
   font-style: italic;
     img {
         float: left;
         border-radius: 50%;
+        margin-right: 20px;
     }
 }
 
