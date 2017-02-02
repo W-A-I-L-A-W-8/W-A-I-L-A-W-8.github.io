@@ -33,7 +33,7 @@ Develop reusable theme templates. Work towards the best user experience. Simplic
 ### Video
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
                     
-
+_ _ _
 
 > ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 >
