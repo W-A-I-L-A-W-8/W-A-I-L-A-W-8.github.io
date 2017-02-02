@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkBlue;
   font: 15px/1.4 $helveticaNeue;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 .container {
@@ -30,19 +30,9 @@ body {
   width: 100%;
 }
 
-.button {
-    margin: 15px 0;
-    padding: 10px 15px;
-    background-color: transparent;
-    border-radius: 1000px;
-    border: 1px solid $accent;
-}
-
-
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $gray;
   font-weight: lighter;
   text-transform: uppercase;
 
@@ -56,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 28px;
   a {
     color: inherit;
   }
@@ -80,17 +70,12 @@ p {
 }
 
 a {
-  color: $accent;
+  color: $gray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $accent;
   }
-}
-
-a.button:hover {
-    background: $accent;
-    color: $white;
 }
 
 a.active {
@@ -172,7 +157,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  border-top: 5px solid $accent;
 }
 
 .masthead {
@@ -213,7 +197,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $gray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -236,7 +220,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 15px;
 
   @include mobile {
     float: none;
@@ -247,9 +231,9 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $lightGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 200;
     letter-spacing: 1px;
     
     @include mobile {
@@ -257,10 +241,6 @@ nav {
       color: $accent;
     }
   }
-}
-
-nav a:hover {
-  border-bottom: 2px solid $accent;
 }
 
 //
@@ -292,21 +272,38 @@ nav a:hover {
   }
 
   .read-more {
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 15px;
   }
 }
 
+blockquote {
+  margin: 1.8em .8em;
+  border-left: 1px solid $lightGray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 19px;
+  font-style: italic;
+  letter-spacing: 2px;
+    img {
+        float: left;
+        border-radius: 50%;
+        margin-right: 15px;
+    }
+}
+
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid $accent;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkerBlue;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+footer p.about-excerpt {
+    font-size: 13px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

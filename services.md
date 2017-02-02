@@ -31,14 +31,14 @@ Remove the bloat, tidy up code, optimise images and backend improvements to make
 Develop reusable theme templates. Work towards the best user experience. Simplicity and functionality.
 
 ### Video
-Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. <a href="video">Read more ></a>
+Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
                     
-                    
-## Get in Touch
 
-[hello@wailaw.me](mailto:hello@wailaw.me)
 
-```I contacted Wai to help me with my website after beign frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
-
-_Claire Mullin, Claire's Creative Bakes_```
+> ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
+>
+> I contacted Wai to help me with my website after being frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a 
+> number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
+>
+> __Claire Mullin__, Claire's Creative Bakes
 
