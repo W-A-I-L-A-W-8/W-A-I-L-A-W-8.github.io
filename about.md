@@ -8,6 +8,9 @@ navigation_weight: 2
 
 # A bit of info about myself!
 
+### Travel Industry Web Services
+I'm Wai, I specialise in travel related website design and front end development. I can help with engagement, increased conversions and improved experience through data and testing.
+
 I am a business Grad, self-taught Web Designer, Front End Developer & Video Editor supporting the travel industries. I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 
 ### More Information
@@ -22,3 +25,6 @@ My Father and Uncles are all business owners so having grown up around them I gu
 ### Get in Touch
 
 [hello@wailaw.me](mailto:hello@wailaw.me)
+
+### My Scribbles
+I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](/enquiry/)

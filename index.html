@@ -1,16 +1,24 @@
 ---
-layout: page
+layout: default
+title: Blog
+permalink: /blog/
 published: true
+navigation_weight: 1
 ---
 
-<h1>Travel Industry Web Services</h1>
-I'm Wai, I specialise in travel related website design and front end development. I can help with engagement, increased conversions and improved experience through data and testing.
+<div class="posts">
+    <h3>Travel Industry Web Services</h3>
+        <p>I'm Wai, a Web Designer currently in London, UK, although I'm more of a Front End Dev these days and also an occasional Video Editor, supporting the travel industry. I have walked a marathon but yet to run one.</p>
+  {% for post in site.posts %}
+    <article class="post">
 
-<div class="box-1">
-   <div class="btn btn-one">
-     <span><a href="enquiry">Start a Project</a></span>
-   </div>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Keep reading</a>
+    </article>
+  {% endfor %}
 </div>
-
-<h3>My Scribbles</h3>
-<p>I have a blog where I write about random things and stuff I've come across on the web that have helped me out with a task or offered some insight or some useful knowledge. These maybe of interest. You can enjoy some of these short snippets <a href="blog">here ></a></p>
