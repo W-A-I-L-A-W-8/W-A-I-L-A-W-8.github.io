@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkBlue;
   font: 15px/1.4 $helveticaNeue;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $gray;
   font-weight: lighter;
   text-transform: uppercase;
 
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 32px;
   a {
     color: inherit;
   }
@@ -232,7 +232,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $lightGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -286,7 +286,7 @@ nav a:hover {
   margin-top: 50px;
   border-top: 1px solid $accent;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkerBlue;
 }
 
 footer {
