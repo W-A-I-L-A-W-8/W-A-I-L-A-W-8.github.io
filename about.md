@@ -43,4 +43,5 @@ I have a section on this website where I write about random things and stuff I h
 
 ##### Travel Direct
 __Static website development and CMS Integration__
+
 I am responsible here for front end design components and reusable CMS templates in preparation for integration with Umbraco CMS. The brand was originally just four or five Caribbean destinations tbut with the rebranding it has now evolved into activity and culture based travel options.
