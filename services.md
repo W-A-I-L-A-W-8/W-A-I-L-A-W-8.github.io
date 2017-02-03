@@ -28,7 +28,7 @@ Design of a set of emails to capture your client's attention. Compatible with po
 Remove the bloat, tidy up code, optimise images and backend improvements to make your pages load faster.
 
 ### CMS Integration
-Develop reusable theme templates. Work towards the best user experience. Simplicity and functionality.
+I can help with planning the transition from static to CMS, develop reusable theme templates. Work towards craeting the best CMS user experience for the purpose. Simplicity and functionality.
 
 ### Video
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
@@ -40,4 +40,6 @@ Short travel promotions. Video to make your pages more appealing and to offer an
 > number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
 >
 > __Claire Mullin__, Claire's Creative Bakes
+
+[Read others like this >](/reviews/)
 
