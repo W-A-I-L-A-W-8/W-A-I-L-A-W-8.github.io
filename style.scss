@@ -298,6 +298,9 @@ blockquote {
         max-width: 60%;
         border-radius: 50%;
     }
+    @include mobile {
+       margin: 0.1em 1em; 
+    }
 }
 
 .wrapper-footer {
