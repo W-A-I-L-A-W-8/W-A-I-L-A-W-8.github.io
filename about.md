@@ -39,9 +39,9 @@ I have a section on this website where I write about random things and stuff I h
 [Read others like this >](/reviews/)
 
 
-### What am I currently working on?
+## What am I currently working on?
 
-##### Travel Direct
+#### Travel Direct Ltd
 __Static website development and CMS Integration__
 
-I am responsible here for front end design components and reusable CMS templates in preparation for integration with Umbraco CMS. The brand was originally just four or five Caribbean destinations tbut with the rebranding it has now evolved into activity and culture based travel options.
+I am responsible here for front end design components and reusable CMS templates in preparation for integration with Umbraco CMS. The brand was originally just four or five Caribbean destinations but with the rebranding it has now evolved into activity and culture based travel options all around the world.
