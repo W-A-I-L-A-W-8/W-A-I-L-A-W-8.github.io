@@ -34,6 +34,9 @@ I can help with planning the transition from static to CMS, develop reusable the
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
 
 
+## [Start a Project](/enquiry/)
+
+
 > ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 >
 > "I contacted Wai to help me with my website after being frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a 
