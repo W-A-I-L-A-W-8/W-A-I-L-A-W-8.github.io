@@ -34,7 +34,7 @@ I can help with planning the transition from static to CMS, develop reusable the
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
 
 
-## [Start a Project](/enquiry/)
+[Start a Project >](/enquiry/)
 
 
 > ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
