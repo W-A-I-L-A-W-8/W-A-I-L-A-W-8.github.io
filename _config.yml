@@ -53,9 +53,6 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-paginate: 6
-paginate_path: /page:num/
-
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
