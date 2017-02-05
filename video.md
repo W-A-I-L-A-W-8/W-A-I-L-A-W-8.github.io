@@ -5,6 +5,7 @@ published: true
 ---
 
 # Why Video?
+Watch this short motion graphic
 [![Why Video?](http://img.youtube.com/vi/VgIPMffAnoo/0.jpg)](http://www.youtube.com/watch?v=VgIPMffAnoo)
 
 ## Videos are great for marketing
