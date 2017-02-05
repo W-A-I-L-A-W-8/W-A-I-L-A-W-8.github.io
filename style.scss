@@ -178,9 +178,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 60px;
+  height: 60px;
 
   @include mobile {
     float: none;
