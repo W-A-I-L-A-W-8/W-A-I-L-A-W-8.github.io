@@ -254,6 +254,18 @@ nav {
 // .main
 //
 
+.fullwidth {
+  margin: 0 auto;
+  max-width: 1300px;
+  padding: 50px 15px;
+  width: 100%;
+  text-align: center;
+    
+    h1 {
+        font-size: 180%;
+    }
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
