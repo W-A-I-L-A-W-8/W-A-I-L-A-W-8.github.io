@@ -62,33 +62,7 @@
     </div>
     
     <div id="main" role="main" class="container">
-      <article class="post">
-    
-          <div class="entry">
-            {{ content }}
-          </div>
-
-          <div class="date">
-            Written on {{ page.date | date: "%B %e, %Y" }}
-          </div>
-          
-          <div class="related">
-              <h2>Other Posts</h2>
-              <ul>
-                {% for post in site.related_posts limit:3 %}
-                  <a href="{{ post.url }}">
-                      <li>
-                      <h4>{{ post.title }}&nbsp;&nbsp;{{ post.date | date_to_string }}</h4>
-                      </li>
-                  </a>
-                {% endfor %}
-              </ul>
-          </div>
-
-          {% include disqus.html %}
-
-        </article>
-        
+      {{ content }}
     </div>
 
     {% include footer.html %}

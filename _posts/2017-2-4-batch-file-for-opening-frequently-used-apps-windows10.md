@@ -1,5 +1,5 @@
 ---
-layout: post-alternative
+layout: post
 title: Useful little batch file for opening frequently used applications in Windows 10
 published: true
 ---
