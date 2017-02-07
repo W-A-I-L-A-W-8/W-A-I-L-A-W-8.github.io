@@ -26,9 +26,8 @@ body {
 .container {
   margin: 0 auto;
   max-width: 800px;
-  padding: 50px;
+  padding: 0 10px;
   width: 100%;
-  background: $lightGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -248,6 +247,10 @@ nav {
 //
 // .main
 //
+.page {
+  background: $lightGray;
+    padding: 50px;    
+}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -257,6 +260,11 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.post {
+    background: $lightGray;
+    padding: 50px;
 }
 
 .post {
