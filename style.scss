@@ -25,16 +25,10 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 800px;
+  padding: 50px;
   width: 100%;
-}
-
-.container-wider {
-  margin: 0 auto;
-  max-width: 100%;
-  padding: 0 10px;
-  width: 100%;
+  background: $lightGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -263,11 +257,6 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-}
-
-.post {
-    background: $lightGray;
-    padding: 50px;
 }
 
 .post {
