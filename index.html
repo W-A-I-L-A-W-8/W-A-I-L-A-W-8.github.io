@@ -13,7 +13,7 @@ published: true
         {{ post.excerpt }}
       </div> --->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Keep reading</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read&nbsp;&nbsp;{{ post.date | date_to_string }}</a>
     </article>
   {% endfor %}
 </div>
