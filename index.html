@@ -9,11 +9,11 @@ published: true
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <div class="entry">
+      <!--- <div class="entry">
         {{ post.excerpt }}
-      </div>
+      </div> --->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Keep reading</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
     </article>
   {% endfor %}
 </div>

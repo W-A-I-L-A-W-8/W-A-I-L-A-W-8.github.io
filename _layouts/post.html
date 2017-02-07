@@ -1,8 +1,9 @@
 ---
-layout: default-post
+layout: default
 ---
 
 <article class="post">
+  <h1>{{ page.title }}</h1>
     
   <div class="entry">
     {{ content }}
@@ -11,14 +12,16 @@ layout: default-post
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-  
+    
+</article>
+
   <div class="share">
     <h3>Share this post</h3>
     <a href="https://twitter.com/share" class="twitter-share-button" data-via="TravelFrontEnds" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
     <script type="IN/Share"></script>
   </div>
-    
+
   <div class="related">
       <h2>Other Posts</h2>
       <ul>
@@ -33,5 +36,3 @@ layout: default-post
   </div>
     
   {% include disqus.html %}
-    
-</article>
