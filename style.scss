@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $gray;
   font-weight: lighter;
   text-transform: capitalize;
+  letter-spacing: 3px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -169,7 +170,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 0px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -254,19 +255,6 @@ nav {
 // .main
 //
 
-.fullwidth {
-  margin: 0 auto 30px auto;
-  max-width: 1800px;
-  padding: 5px 10px;
-  width: 100%;
-  text-align: center;
-    
-    h1 {
-        font-size: 6vh;
-        letter-spacing: 5px;
-    }
-}
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -275,6 +263,11 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.post {
+    background: $lightGray;
+    padding: 50px;
 }
 
 .post {
@@ -318,7 +311,7 @@ blockquote {
 
 .wrapper-footer {
   margin-top: 50px;
-  background-color: $darkerBlue;
+  background-color: $white;
 }
 
 footer {
