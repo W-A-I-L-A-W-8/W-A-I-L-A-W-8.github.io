@@ -23,17 +23,17 @@ Open or create a .htaccess file and place it in the root of your website. You ca
 Here's what I added to my .htaccess file. The code tells the browser what to cache and the length of time to remember it for.
 
 
-        **EXPIRES CACHING**
-        ExpiresActive On
-        ExpiresByType css/custom.min.css "access 1 month"
-        ExpiresByType css/foundation.min.css "access 1 month"
-        ExpiresByType images/hero-1600x150.jpg "access 1 month"
-        ExpiresByType js/app.js "access 1 month"
-        ExpiresByType js/vendor/foundation.min.js "access 1 month"
-        ExpiresByType js/vendor/jquery.min.js "access 1 month"
-        ExpiresByType js/vendor/what-input.min.js "access 1 month"
-        ExpiresDefault "access 1 month"
-        **EXPIRES CACHING**
+    **EXPIRES CACHING**
+    ExpiresActive On
+    ExpiresByType css/custom.min.css "access 1 month"
+    ExpiresByType css/foundation.min.css "access 1 month"
+    ExpiresByType images/hero-1600x150.jpg "access 1 month"
+    ExpiresByType js/app.js "access 1 month"
+    ExpiresByType js/vendor/foundation.min.js "access 1 month"
+    ExpiresByType js/vendor/jquery.min.js "access 1 month"
+    ExpiresByType js/vendor/what-input.min.js "access 1 month"
+    ExpiresDefault "access 1 month"
+    **EXPIRES CACHING**
 
 ### Remember to save it
 Save the file, refresh your browser and you are done.

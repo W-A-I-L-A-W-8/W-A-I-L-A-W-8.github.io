@@ -251,6 +251,10 @@ nav {
   background: $lightGray;
   padding: 50px;
   border-radius: 6px;
+    
+    @include mobile {
+        padding: 15px 10px;
+    }
 }
 
 .posts > .post {
@@ -267,6 +271,10 @@ nav {
     background: $lightGray;
     padding: 50px;
     border-radius: 6px;
+    
+    @include mobile {
+        padding: 15px 10px;
+    }
 }
 
 .post {
@@ -294,7 +302,7 @@ nav {
 }
 
 .related {
-  padding: 25px 50px;      
+  padding: 0 10px;      
 }
 
 blockquote {
