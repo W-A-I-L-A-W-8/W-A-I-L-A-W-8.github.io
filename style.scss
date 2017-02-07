@@ -249,7 +249,8 @@ nav {
 //
 .page {
   background: $lightGray;
-    padding: 50px;    
+  padding: 50px;
+  border-radius: 6px;
 }
 
 .posts > .post {
@@ -265,6 +266,7 @@ nav {
 .post {
     background: $lightGray;
     padding: 50px;
+    border-radius: 6px;
 }
 
 .post {
@@ -285,6 +287,14 @@ nav {
     text-transform: capitalize;
     font-size: 15px;
   }
+}
+
+.share {
+  text-align: right; 
+}
+
+.related {
+  padding: 25px 50px;      
 }
 
 blockquote {
