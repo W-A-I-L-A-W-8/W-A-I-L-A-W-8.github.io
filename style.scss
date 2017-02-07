@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $darkBlue;
-  font: 15px/1.4 $helveticaNeue;
-  color: $lightGray;
+	background: $white;
+  font: 15px/1.4 $georgia;
+  color: $darkBlue;
 }
 
 .container {
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
   color: $gray;
   font-weight: lighter;
-  text-transform: uppercase;
+  text-transform: capitalize;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -206,7 +206,7 @@ img {
   margin: 0;
   color: $gray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -226,8 +226,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 15px;
+  font-family: $georgia;
+  font-size: 17px;
 
   @include mobile {
     float: none;
@@ -238,7 +238,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $lightGray;
+    color: $gray;
     text-align: right;
     font-weight: 200;
     letter-spacing: 1px;
