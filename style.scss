@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $gray;
   font-weight: lighter;
   text-transform: capitalize;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -242,7 +242,7 @@ nav {
     color: $gray;
     text-align: right;
     font-weight: 200;
-    letter-spacing: 1px;
+    letter-spacing: 5px;
     
     @include mobile {
       margin: 0 10px;
@@ -257,7 +257,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $white;
 }
 
 .posts > .post:last-child {
