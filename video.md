@@ -9,6 +9,8 @@ Watch this short motion graphic
 
 [![Why Video?](http://img.youtube.com/vi/VgIPMffAnoo/0.jpg)](http://www.youtube.com/watch?v=VgIPMffAnoo)
 
+{% include youtube.html youtube_id="VgIPMffAnoo" %}
+
 ## Videos are great for marketing
 
 ### Turn your unused travel footage into short promotional films
@@ -33,3 +35,5 @@ Let me create a narrative from your best clips and edit them into entertaining d
 
 ### Recent work:
 [![Why Video?](http://img.youtube.com/vi/PJ27u4tHZk4/0.jpg)](http://www.youtube.com/watch?v=PJ27u4tHZk4)
+
+{% include youtube.html youtube_id="PJ27u4tHZk4" %}
