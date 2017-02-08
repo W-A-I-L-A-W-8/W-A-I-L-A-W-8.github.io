@@ -16,4 +16,15 @@ published: true
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
     </article>
   {% endfor %}
+    
+    <article class="work">
+
+      <h2><a href="{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a></h2>
+
+          <div class="entry">
+            {{ work.excerpt }}
+          </div>
+
+      <a href="{{ site.baseurl }}{{ work.url }}" class="read-more">Read</a>&nbsp;&nbsp;
+    </article>
 </div>

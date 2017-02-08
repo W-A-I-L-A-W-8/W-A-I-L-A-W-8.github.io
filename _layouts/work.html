@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+    
+  <div class="entry">
+    {{ content }}
+  </div>
+    
+</article>
+
+  <div class="related">
+      <h2>Other Posts</h2>
+      <ul>
+        {% for post in site.related_posts limit:3 %}
+          <a href="{{ work.url }}">
+              <li>
+              <h4>{{ work.title }}</h4>
+              </li>
+          </a>
+        {% endfor %}
+      </ul>
+  </div>
+    
+  {% include disqus.html %}
