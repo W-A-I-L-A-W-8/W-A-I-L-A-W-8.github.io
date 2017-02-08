@@ -17,14 +17,17 @@ published: true
     </article>
   {% endfor %}
     
-    <article class="work">
+  {% for work in site.work %}
+    <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a></h2>
 
-          <div class="entry">
-            {{ work.excerpt }}
-          </div>
+      <div class="entry">
+        {{ work.excerpt }}
+      </div>
 
-      <a href="{{ site.baseurl }}{{ work.url }}" class="read-more">Read</a>&nbsp;&nbsp;
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>
+        
     </article>
+  {% endfor %}
 </div>
