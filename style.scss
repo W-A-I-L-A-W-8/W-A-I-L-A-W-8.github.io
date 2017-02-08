@@ -247,6 +247,13 @@ nav {
 //
 // .main
 //
+.portfolio {
+    margin-top: 50px;
+    article {
+        background: $accent;
+    }
+}
+
 .page {
   background: $lightGray;
   padding: 50px;
