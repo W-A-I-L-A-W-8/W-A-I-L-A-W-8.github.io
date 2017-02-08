@@ -23,7 +23,8 @@ My Father and Uncles were all in business so having grown up around them I have 
 I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 
 ### Get in Touch
-[hello@wailaw.me](mailto:hello@wailaw.me)
+
+###### [hello@wailaw.me](mailto:hello@wailaw.me)
 
 ### My Scribbles
 I have a section on this website where I write about random things and stuff I have come across on the web that have enlightened me, helped with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](https://w-a-i-l-a-w-8.github.io/)
