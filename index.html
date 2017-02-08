@@ -9,9 +9,9 @@ published: true
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <!--- <div class="entry">
-        {{ post.excerpt }}
-      </div> --->
+      <div class="entry">
+        {{ post.excerpt | truncate: 25 }}
+      </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
     </article>
