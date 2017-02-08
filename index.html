@@ -5,6 +5,7 @@ published: true
 
 <div class="posts">
   {% for post in site.posts %}
+    {% if post.type != "portfolio" %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -15,6 +16,7 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
     </article>
+    {% endif %}
   {% endfor %}
 </div>
 
