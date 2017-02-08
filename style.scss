@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
   color: $gray;
   font-weight: lighter;
-  text-transform: capitalize;
+  text-transform: inherit;
   letter-spacing: 5px;
 
   line-height: 1.7;
@@ -343,6 +343,33 @@ footer {
 
 footer p.about-excerpt {
     font-size: 13px;
+}
+
+.footer-nav {
+    background: tomato;
+    position: relative;
+    bottom: 0;
+    
+    ul {
+    list-style: none;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px 0;
+    }
+        
+    li {
+    font-size: 12px;
+    display: inline;
+    padding: 10px 10px;
+    }
+    
+    a {
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: .3s;
+    color: $white;
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

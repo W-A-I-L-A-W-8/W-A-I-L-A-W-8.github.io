@@ -1,0 +1,16 @@
+---
+layout: default
+published: true
+---
+
+  {% for post in site.posts %}
+    {% if post.type == "portfolio" %}
+    
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
+    </article>
+    {% endif %}
+  {% endfor %}
+</div>
