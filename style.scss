@@ -23,6 +23,12 @@ body {
   color: $darkBlue;
 }
 
+.logoWai {
+    @include mobile {
+        width: 200px;
+    }
+}
+
 .container {
   margin: 0 auto;
   max-width: 800px;
