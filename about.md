@@ -6,9 +6,8 @@ published: true
 navigation_weight: 2
 ---
 
-# A bit of info about myself!
+# Keep your clients engaged for longer, much longer!
 
-### Travel Industry Web Services
 I'm Wai, I specialise in travel related website design and front end development. I can help with engagement, increased conversions and improved experience through data and testing.
 
 I'm a fan of simplicity, websites that function as they were planned, with substance over style. 'If it doesn't make your site perfom better then leave it out' I practice research, testing and data driven design.
