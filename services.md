@@ -12,9 +12,6 @@ I have a good understanding of business, marketing and deliver solutions that ca
 ### Redesign
 Data driven design for existing website or just key pages. Improve user experience and engagement leading to increased conversion.
 
-### Front End Development
-It's time to make your designs a reality. Clean mark-up, responsive and interactive. I will research your target market and build an experience geared towards to your ideal user base.
-
 ### Landing Pages
 Targetted pages for your co-marketing campaigns with preferred partners. Customised to your requirements.
 
