@@ -4,10 +4,29 @@ title: Start a Project
 published: true
 ---
 
-# Start a Project
+# Start a Project or just get in touch
 
 
-<!-- Change the width and height values to suit you best -->
-<div class="typeform-widget" data-url="https://jwchunglaw.typeform.com/to/oxFm3z" data-text="Start a Project" style="width:100%;height:500px;"></div>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
-<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by<a href="https://www.typeform.com/examples/?utm_campaign=oxFm3z&amp;utm_source=typeform.com-413406-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a></div>
+<div id="wufoo-ziv7g3w1duao2e">
+Fill out my <a href="https://wufoowai.wufoo.com/forms/ziv7g3w1duao2e">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.</div>
+<script type="text/javascript">
+    var ziv7g3w1duao2e;(function(d, t) {
+    var s = d.createElement(t), options = {
+    'userName':'wufoowai',
+    'formHash':'ziv7g3w1duao2e',
+    'autoResize':true,
+    'height':'500',
+    'async':true,
+    'host':'wufoo.com',
+    'header':'show',
+    'ssl':true};
+    s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+    s.onload = s.onreadystatechange = function() {
+    var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+    try { ziv7g3w1duao2e = new WufooForm();ziv7g3w1duao2e.initialize(options);ziv7g3w1duao2e.display(); } catch (e) {}};
+    var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');
+</script>
+
