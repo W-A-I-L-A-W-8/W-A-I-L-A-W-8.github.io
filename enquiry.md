@@ -7,7 +7,7 @@ published: true
 <div id="wufoo-ziv7g3w1duao2e">
 Fill out my <a href="https://wufoowai.wufoo.com/forms/ziv7g3w1duao2e">online form</a>.
 </div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">HTML Forms powered by <a href="http://www.wufoo.com">Wufoo</a>.</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">I have chosen to power my form with <a href="http://www.wufoo.com">Wufoo</a>.</div>
 <script type="text/javascript">var ziv7g3w1duao2e;(function(d, t) {
 var s = d.createElement(t), options = {
 'userName':'wufoowai',
