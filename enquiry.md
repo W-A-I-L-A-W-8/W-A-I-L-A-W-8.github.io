@@ -4,6 +4,10 @@ title: Start a Project
 published: true
 ---
 
+# Start a Project or just get in touch
+
+Looking to kick-start your project? or you have some questions and wish to get in touch. Either way, I am looking forward to working with or hearing from you but just need the details below.
+
 <div id="wufoo-ziv7g3w1duao2e">
 Fill out my <a href="https://wufoowai.wufoo.com/forms/ziv7g3w1duao2e">online form</a>.
 </div>
@@ -16,7 +20,7 @@ var s = d.createElement(t), options = {
 'height':'446',
 'async':true,
 'host':'wufoo.com',
-'header':'show',
+'header':'hide',
 'ssl':true};
 s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
 s.onload = s.onreadystatechange = function() {
