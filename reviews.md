@@ -20,6 +20,13 @@ published: true
 >
 > __Nardia Sullivan__, Wild Frontiers Foundation
 
+> ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
+>
+> "I contacted Wai to help me with my website after being frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a 
+> number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
+>
+> __Claire Mullin__, Claire's Creative Bakes
+
 
 ### Get in Touch
 [hello@wailaw.me](mailto:hello@wailaw.me)

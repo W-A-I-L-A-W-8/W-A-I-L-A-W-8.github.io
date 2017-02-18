@@ -1,15 +1,14 @@
 ---
-layout: default
-published: false
+layout: page
+title: Home
+published: true
 ---
 
-<div class="posts">
+# Declutter your content heavy travel website, increase conversions
 
-<h1>Declutter your content heavy travel website, increase conversions</h1>
+Does your site already generate a large amount of daily traffic, yet it could **engage** your users for **longer**?
 
-<p>Does your site already generate a large amount of daily traffic, yet it could <b>engage</b> your users for <b>longer**?</b>
-
-I'm Wai, an independent web design consultant with expertise in front end development. I care about the engagement of your site and create better page experiences using data research methods and testing. **Here's how I can help:-**
+I'm [Wai Law](/about/), an independent web design consultant with expertise in front end development supporting the travel industry. I care about the engagement of your site and create better page experiences using data research methods and testing. **Here's how I can help:-**
 
 ### Redesign
 Data driven design for key pages in your funnel. Improve user experience and engagement which lead to increased conversion rates.
@@ -24,7 +23,10 @@ Automate your marketing with a campaign of emails to keep your client's updated 
 Design your user's experiences with clear sight. Make more impactful changes to your website backed up by data, research and testing.
 
 ### Video
-Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. [Discover how video can help your travel business >](/video/).
+Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. 
+###### [Discover how video can help your travel business >](/video/)
+
+---
 
 > ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
 >
@@ -43,6 +45,3 @@ Short travel promotions. Video to make your pages more appealing and to offer an
 2. If you're ready, [start a project >](/enquiry/)
 
 I have a great understanding of business, marketing and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have a lot of knowledge that I love to share. My rates are competitive and I enjoy working flexibly.
-
----
-</div>
