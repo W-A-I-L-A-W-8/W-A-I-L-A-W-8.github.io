@@ -22,12 +22,24 @@ I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chop
 ---
 
 ### My Scribbles
-I have a section on this website where I write about random things and stuff I have come across on the web that have enlightened me, helped with a task or offered some insight or some useful knowledge. These maybe be of interest. You can enjoy some of these short snippets [on my blog page >](/blog/)
+I have a section on this website where I write about random things and stuff I have come across on the web that have either, enlightened me, helped with a task or offered some insight or some useful knowledge. These maybe be of interest, you may even benefit for them. You can enjoy these short snippets [over here >](/blog/)
 
 
-<!--- ## What am I currently working on?
+## What am I currently working on?
 
-#### Travel Direct Ltd
+### Travel Direct Ltd
 __Static website development and CMS Integration__
 
-I am responsible here for front end design components and reusable CMS templates in preparation for integration with Umbraco CMS. The brand was originally just four or five Caribbean destinations but with the rebranding it has now evolved into activity and culture based travel options all around the world. --->
+    * Redesign of client side components and elements. 
+    * Development of editable templates in preparation for integration with Umbraco CMS. 
+    * Email marketing.
+    * Blog and article layout designs.
+    * New media gallery section.
+    
+### Cuba Direct UK
+__A/B Testing, marketing automation and enriching content__
+
+    * Redesign of key funnel pages.
+    * New team members section.
+    * Planning CMS integration.
+    * Email marketing.
