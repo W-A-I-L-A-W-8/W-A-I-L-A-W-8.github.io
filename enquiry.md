@@ -1,5 +1,5 @@
 ---
-layout: just-body
+layout: page
 title: Start a Project
 published: true
 ---
