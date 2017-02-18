@@ -11,16 +11,13 @@ Does your site already generate a large amount of daily traffic, yet it could **
 I'm [Wai Law](/about/), an independent, web design consultant with expertise in front end development, supporting the travel industry. I care about the engagement of your site and create better page experiences using data research methods and testing. **Here's how I can help:-**
 
 ### Redesign
-Data driven design for key pages in your funnel. Improve user experience and engagement which lead to increased conversion rates.
+Select key pages in your funnel and design your user's experiences with clearer sight. Make more impactful changes to your website backed up by data, research and testing.
 
 ### Landing Pages
 Targetted pages for your co-marketing campaigns. Customised to your brand. One page, one week.
 
 ### Email Solution
 Automate your marketing with a campaign of emails to keep your client's updated on their booking process and for lead building.
-
-### A/B Testing
-Design your user's experiences with clear sight. Make more impactful changes to your website backed up by data, research and testing.
 
 ### Video
 Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. I will help you to put together a plan of action and execute it.
@@ -40,11 +37,9 @@ Short travel promotions. Video to make your pages more appealing and to offer an
 
 ---
 
-### What to do next:
+### What you can do next:
 
 1. Mail me any initial queries [hello@wailaw.me](mailto:hello@wailaw.me) 
 2. If you're ready, [start a project >](/enquiry/)
 
 I have a great understanding of business, marketing and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have a lot of knowledge that I love to share. My rates are competitive and I enjoy working flexibly.
-
----
