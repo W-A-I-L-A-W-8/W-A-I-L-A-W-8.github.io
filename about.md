@@ -30,16 +30,16 @@ I have a section on this website where I write about random things and stuff I h
 ### Travel Direct Ltd
 __Static website development and CMS Integration__
 
-    * Redesign of client side components and elements. 
-    * Development of editable templates in preparation for integration with Umbraco CMS. 
-    * Email marketing.
-    * Blog and article layout designs.
-    * New media gallery section.
+* Redesign of client side components and elements. 
+* Development of editable templates in preparation for integration with Umbraco CMS. 
+* Email marketing.
+* Blog and article layout designs.
+* New media gallery section.
     
 ### Cuba Direct UK
 __A/B Testing, marketing automation and enriching content__
 
-    * Redesign of key funnel pages.
-    * New team members section.
-    * Planning CMS integration.
-    * Email marketing.
+* Redesign of key funnel pages.
+* New team members section.
+* Planning CMS integration. 
+* Email marketing.
