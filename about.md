@@ -35,6 +35,7 @@ __Static website development and CMS Integration__
 * Email marketing.
 * Blog and article layout designs.
 * New media gallery section.
+* Development of a tailor-made trips application.
     
 ### Cuba Direct UK
 __A/B Testing, marketing automation and enriching content__
