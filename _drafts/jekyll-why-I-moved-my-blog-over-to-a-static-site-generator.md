@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll - Why I chose to use a Static Site Generator to build my blog
+title: Jekyll - I recommend usng a Static Site Generator to build your blog
 published: true
 ---
 
