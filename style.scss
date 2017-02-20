@@ -4,7 +4,7 @@
 //
 // IMPORTS
 //
-@import url('https://fonts.googleapis.com/css?family=Montserrat:200|Architects+Daughter');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -325,7 +325,7 @@ blockquote {
   color: $gray;
   text-align: left;
   font-size: 14px;
-  font-family: $architectsDaughter;
+  font-family: $helveticaNeue;
   letter-spacing: 2px;
     img {
         float: left;
