@@ -4,7 +4,7 @@
 //
 // IMPORTS
 //
-
+@import url('https://fonts.googleapis.com/css?family=Sansita');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 17px/1.4 $georgia;
+  font: 17px/1.4 'Sansita', sans-serif;
   color: $darkBlue;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $georgia;
+  font-family: 'Sansita', sans-serif;
   color: $gray;
   font-weight: lighter;
   text-transform: inherit;
@@ -205,7 +205,7 @@ img {
   margin: 0;
   color: $gray;
   cursor: pointer;
-  font-family: $georgia;
+  font-family: 'Sansita', sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -225,7 +225,7 @@ img {
 nav {
   float: right;
   margin-top: 75px; // @TODO: Vertically middle align
-  font-family: $georgia;
+  font-family: 'Sansita', sans-serif;
   font-size: 16px;
 
   @include mobile {
@@ -325,7 +325,7 @@ blockquote {
   color: $gray;
   text-align: left;
   font-size: 13px;
-  font-family: $georgia;
+  font-family: 'Sansita', sans-serif;
   font-style: italic;
   letter-spacing: 2px;
     img {
