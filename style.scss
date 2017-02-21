@@ -24,6 +24,7 @@ body {
 }
 
 .logoWai {
+    font-family: $montserrat;
     @include mobile {
         width: 200px;
     }
