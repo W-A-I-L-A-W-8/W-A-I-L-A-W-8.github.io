@@ -14,7 +14,7 @@ I'm [Wai Law](/about/), an independent, web design consultant with expertise in 
 Select key pages in your funnel and design your user's experiences with clearer sight. Make more impactful changes to your website backed up by data, research and testing. I also deal with any performance issues in the form of website speed tests. Adjustments will be made based on the research and analysis.
 
 ### Landing Pages
-These are targetted pages tailored specifically for your co-marketing campaigns and customised to your brand. I can build you high-performing templates which guide your users to taking a specific action. Some of principles used in the redesign service are used here too.
+These are targetted pages tailored specifically for your co-marketing campaigns and customised to your brand. I can build you high-performing templates which guide your users to taking a specific action. Some of the principles used in the redesign service are used here too.
 
 ### Email Solution
 Automate your marketing with a campaign of emails to keep your client's updated on their booking process and for lead building.

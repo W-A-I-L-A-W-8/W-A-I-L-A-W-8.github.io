@@ -17,7 +17,7 @@ navigation_weight: 1
         {{ post.excerpt | truncate: 25 }}
       </div> --->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>&nbsp;&nbsp;{{ post.date | date_to_string }}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read</a>
     </article>
     {% endif %}
   {% endfor %}
