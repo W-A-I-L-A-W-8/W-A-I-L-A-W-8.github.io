@@ -10,7 +10,7 @@ navigation_weight: 2
 
 Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is pronounced **way** but my closest buddies call me **Waister**.
 
-I am a business Grad, self-taught Web Designer, Front End Developer & Video Editor supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infitnitely when an unsuspecting user touched the keyboard.
+I am a business Grad, self-taught Web Designer, Front End Developer & Video Editor supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
 
 > I'm a fan of simplicity, websites that function as they were planned, with substance over style.  If it doesn't make your site perform better then leave it out. I practice research, testing and data driven design.
 
