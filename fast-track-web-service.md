@@ -49,4 +49,10 @@ A targetted page tailored and customised to your brand. A single page is a power
 
 I created this service specifically to help new businesses get online in quickest possible way but not compromise on the quality of your website. It will be fast, secure and very user friendly.
 
+> ![Jonny Bealby](/images/testimonial-pics/jonny.jpg "Jonny Bealby")
+>
+> "Working with Wai on my website has been a joy; quick, efficient and friendly. I wholeheartedly recommend him and his services.
+>
+> __Jonny Bealby__, Writer & Travel Entrepreneur
+
 Looking for a way to improve engagement and conversion figures on your website. [Check out my other products](/) 
