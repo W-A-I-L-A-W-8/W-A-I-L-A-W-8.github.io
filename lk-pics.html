@@ -1,0 +1,28 @@
+---
+layout: default
+images: 
+ - image_path: /images/lk/width-800/lk-summer-2016_01.jpg
+   title: LK Summer 1
+ - image_path: /images/lk/width-800/lk-summer-2016_02.jpg
+   title: LK Summer 2
+ - image_path: /images/lk/width-800/lk-summer-2016_03.jpg
+   title: LK Summer 3
+ - image_path: /images/lk/width-800/lk-summer-2016_04.jpg
+   title: LK Summer 4
+ - image_path: /images/lk/width-800/lk-summer-2016_05.jpg
+   title: LK Summer 5
+ - image_path: /images/lk/width-800/lk-summer-2016_06.jpg
+   title: LK Summer 6
+ - image_path: /images/lk/width-800/lk-summer-2016_07.jpg
+   title: LK Summer 7
+ - image_path: /images/lk/width-800/lk-summer-2016_08.jpg
+   title: LK Summer 8
+---
+
+<ul class="photo-gallery">
+    {% for image in page.images %}
+        <li>
+           <img src="{{ image.image_path }}" alt="{{ image.title }}"> 
+        </li>
+    {% endfor %}
+</ul>
