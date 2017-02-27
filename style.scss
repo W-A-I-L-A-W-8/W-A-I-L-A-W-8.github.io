@@ -383,12 +383,13 @@ footer p.about-excerpt {
 //* Media/Image Galleries *//
 ul.photo-gallery {
     list-style: none;
+    display: block;
+    margin: 0 auto;
     li {
-        display: inline-block;
+        display: inline;
         padding: 0;
-        margin-right: 3px;
         img {
-            width: 25%;
+            width: 30%;
         }
     }
 }
