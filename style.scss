@@ -384,10 +384,11 @@ footer p.about-excerpt {
 ul.photo-gallery {
     list-style: none;
     li {
-        display: inline;
+        display: inline-block;
         padding: 0;
+        margin-right: 3px;
         img {
-            width: 50%;
+            width: 45%;
         }
     }
 }
