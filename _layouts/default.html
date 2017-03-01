@@ -16,6 +16,7 @@
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
       
+    <script type="text/javascript" src="{{ site.basurl }}/js/jquery.shuffle-images.min.js"></script>
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2835370.js"></script>
     <!-- End of HubSpot Embed Code -->
@@ -89,6 +90,16 @@
     {% include getdrip.html %}
     {% include analytics.html %}
     <script src="//code.jquery.com/jquery-latest.js"></script>
+    <script>
+    $(".shuffle-me").shuffleImages({
+      trigger: "imageMouseMove",
+      triggerTarget: false,
+      mouseMoveTrigger: 50,
+      hoverTrigger: 200,
+      scrollTrigger: 100,
+      target: "> img"
+    });
+    </script>
     <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.1/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
   </body>
 </html>
