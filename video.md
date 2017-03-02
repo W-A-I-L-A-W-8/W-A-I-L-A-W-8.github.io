@@ -39,4 +39,4 @@ Email me: [hello@wailaw.me](mailto:hello@wailaw.me)
 
 {% include youtube.html youtube_id="PJ27u4tHZk4" %}
 
-### Turn your unused travel footage into short promotional films
+### Turn your unused travel footage into short promotional films like this.
