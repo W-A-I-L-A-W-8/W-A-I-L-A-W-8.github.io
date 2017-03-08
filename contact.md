@@ -12,6 +12,7 @@ Looking to kick-start your project? or you have some questions and wish to get i
   <div><input type="email" name="email" placeholder="Your email"></div><br>
   <div><textarea name="message" placeholder="Your message" rows="5" cols="30"></textarea></div><br>
   <div><button type="submit">Send</button></div>
+  <input type="text" name="_gotcha" style="display:none" />
   <input type="hidden" name="_next" value="/" />
 </form>
 
