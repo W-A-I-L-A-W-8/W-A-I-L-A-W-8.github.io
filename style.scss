@@ -400,6 +400,8 @@ form#getInTouch ol li {
     padding: 20px 0;
     label {
         float: left;
+        font-size: 19px;
+        text-transform: uppercase;
     }
     input, textarea {
         width: 93%;
@@ -409,6 +411,7 @@ form#getInTouch ol li {
         -webkit-border-radius: 3px;
         -khtml-border-radius: 3px;
         border-radius: 3px;
+        font-size: 25px;
     }
     textarea {
         resize: vertical;
@@ -418,7 +421,7 @@ form#getInTouch button {
     width: 100%;
     background: #F55567;
     color: #ffffff;
-    font-size: 28px;
+    font-size: 27px;
     border: 1px solid #F55567;
     -moz-border-radius: 20px;
     -webkit-border-radius: 20px;
