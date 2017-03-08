@@ -402,7 +402,7 @@ form#getInTouch ol li {
         float: left;
     }
     input, textarea {
-        width: 300px;
+        width: 100%;
         padding: 5px;
         border: 1px dotted #888;
         -moz-border-radius: 3px;
@@ -411,7 +411,7 @@ form#getInTouch ol li {
         border-radius: 3px;
     }
     button {
-        width: 200px;
+        width: 100%;
         background: #F55567;
         color: #ffffff;
         border: none;
@@ -423,6 +423,9 @@ form#getInTouch ol li {
         padding: 7px 25px;
         text-shadow: 0 1px 1px #000000;
 	    text-transform: uppercase;
+        &:hover {
+            background: rgba(245,85,103,0.6);
+        }
     }
 }  
 
