@@ -39,7 +39,7 @@ Short travel promotions. Video to make your pages more appealing and to offer an
 
 ### What you can do next:
 
-1. Mail me any initial queries [hello@wailaw.me](mailto:hello@wailaw.me) 
-2. If you're ready, [start a project >](/enquiry/)
+1. Mail me any initial queries [hello@wailaw.me &rarr;](mailto:hello@wailaw.me) 
+2. If you're ready, [start a project &rarr;](/enquiry/)
 
 I have a great understanding of business, marketing and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have a lot of knowledge that I love to share. My rates are competitive and I enjoy working flexibly.

@@ -30,14 +30,14 @@ INCLUSIONS:
 * Training
 * A way for you to manage your own content
 
-**[Reserve your starter website pack](mailto:hello@wailaw.me)**
+**[Reserve your starter website pack &rarr;](mailto:hello@wailaw.me)**
 
 ---
 
 ## Single Page Website
 A targetted page tailored and customised to your brand. A single page is a powerful tool for promoting your business efficiently. I can build you high-performing template which guides your users to taking a specific action. Single page websites are very popular as they can be used to tell a story, market special offers and keeps the user more engaged as they do not need to leave the page.
 ### **£500 + domain name and hosting**
-**[Book your single page build](mailto:hello@wailaw.me)**
+**[Book your single page build &rarr;](mailto:hello@wailaw.me)**
 
 ---
 
@@ -55,4 +55,4 @@ I created this service specifically to help new businesses get online in quickes
 >
 > __Jonny Bealby__, Writer & Travel Entrepreneur
 
-Looking for a way to improve engagement and conversion figures on your website. [Check out my other products](/) 
+Looking for a way to improve engagement and conversion figures on your website. [Check out my other products &rarr;](/) 
