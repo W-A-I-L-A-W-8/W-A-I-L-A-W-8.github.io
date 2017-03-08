@@ -8,7 +8,7 @@ published: true
 
 Looking to kick-start your project? or you have some questions and wish to get in touch. Either way, I am looking forward to working with or hearing from you but just need the details below.
 
-<form method="POST" action="http://www.formingo.co/submit/7f4bcacb-0020-4b2e-a97d-5210668088af">
+<form method="POST" action="http://www.formingo.co/submit/hello@wailaw.me">
   <div><input type="text" name="name" placeholder="What do want me to call you?"></div><br>
   <div><input type="email" name="__replyto" placeholder="This is so I can get in touch"></div><br>
   <div><textarea name="message" placeholder="Let me know how I can help you?" rows="5"></textarea></div><br>
