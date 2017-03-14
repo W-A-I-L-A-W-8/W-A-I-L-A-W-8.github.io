@@ -11,7 +11,7 @@ Does your site already generate a large amount of daily traffic, yet it could **
 I'm [Wai Law](/about/), an independent, web design consultant with expertise in front end development, supporting the travel industry. I care about the engagement of your site and create better page experiences using data research methods and testing. **Here's how I can help:-**
 
 ### Redesign
-Select key pages in your funnel and design your user's experiences with clearer sight. Make more impactful changes to your website backed up by data, research and testing. I also deal with any performance issues in the form of website speed tests. Adjustments will be made based on the research and analysis.
+Select key pages in your funnel and design your user's experiences with clearer sight. Make more impactful changes to your website backed up by data, research and testing. I also deal with any performance issues in the form of website speed tests. Adjustments will be made based on the research and analysis. [Learn more about the redesign service &rarr;](/web-redesign/)
 
 ### Landing Pages
 These are targetted pages tailored specifically for your co-marketing campaigns and customised to your brand. I can build you high-performing templates which guide your users to taking a specific action. Some of the principles used in the redesign service are used here too.
@@ -20,9 +20,7 @@ These are targetted pages tailored specifically for your co-marketing campaigns 
 Automate your marketing with a campaign of emails to keep your client's updated on their booking process and for lead building.
 
 ### Video
-Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. I will help you to put together a plan of action and execute it.
-
-###### [Discover how video can help your travel business >](/video/)
+Short travel promotions. Video to make your pages more appealing and to offer an effective channel for promoting your products and services. I will help you to put together a plan of action and execute it. [Discover how video can help your travel business &rarr;](/video/)
 
 ---
 

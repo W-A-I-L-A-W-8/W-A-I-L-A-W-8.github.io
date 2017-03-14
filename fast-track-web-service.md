@@ -55,4 +55,4 @@ I created this service specifically to help new businesses get online in quickes
 >
 > __Jonny Bealby__, Writer & Travel Entrepreneur
 
-Looking for a way to improve engagement and conversion figures on your website. [Check out my other products &rarr;](/) 
+Looking for a way to improve engagement and conversion figures on your website. [Check out my redesign service &rarr;](/web-redesign/) 
