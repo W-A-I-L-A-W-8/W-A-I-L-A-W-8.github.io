@@ -30,7 +30,7 @@ INCLUSIONS:
 * Training
 * A way for you to manage your own content
 
-**[Reserve your starter website pack &rarr;](/contact/)**
+### **[Reserve your starter website pack &rarr;](/contact/)**
 
 ---
 
@@ -48,7 +48,7 @@ INCLUSIONS:
 * Testing
 * Training
 
-**[Book your single page build &rarr;](/contact/)**
+### **[Book your single page build &rarr;](/contact/)**
 
 ---
 
@@ -56,7 +56,7 @@ INCLUSIONS:
 
 1. Email me to get started or if you have any queries [hello@wailaw.me](mailto:hello@wailaw.me) 
 2. You will need to have all your content (text, images..) ready before the start of the web build.
-3. Contact me to ['get the ball rolling'](/contact/).
+3. ['Contact me to get the ball rolling'](/contact/).
 
 I created this service specifically to help new businesses get online in quickest possible way but not compromise on the quality of your website. It will be fast, secure and very user friendly.
 
@@ -66,4 +66,4 @@ I created this service specifically to help new businesses get online in quickes
 >
 > __Jonny Bealby__, Writer & Travel Entrepreneur
 
-Looking for a way to improve engagement and conversion figures on your website. [Check out my redesign service &rarr;](/web-redesign/) 
+Looking for a way to improve engagement and conversion figures on your existing website. [Check out my redesign service &rarr;](/web-redesign/) 
