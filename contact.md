@@ -4,9 +4,9 @@ title: Contact
 published: true
 ---
 
-# Start a Project or just get in touch
+# Lets get cracking on your new business website
 
-Looking to kick-start your project? or you have some questions and wish to get in touch. Either way, I am looking forward to working with or hearing from you but just need the details below.
+Building your starter is simple and fast. I am looking forward to working with you. Please complete the form below.
 
 {% include contact-form.html %}
 

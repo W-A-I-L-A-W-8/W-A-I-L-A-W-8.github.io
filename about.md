@@ -14,7 +14,7 @@ I am a business Grad, self-taught Web Designer, Front End Developer & Video Edit
 
 > I'm a fan of simplicity, websites that function as they were planned, with substance over style.  If it doesn't make your site perform better then leave it out. I practice research, testing and data driven design.
 
-My Father and Uncles were all in business so having grown up around them I have adopted their commercial mindedness and I approach web design with this same mindset. My aim is to deliver high quality designs to schedule, solve client problems and allow users to have the best possible experience online.
+My Father and Uncles were all in business so having grown up around them I have adopted their commercial mindedness and I approach web design with this same mindset. My aim is to deliver high quality designs to schedule, solve your problems and allow your users to have the best possible experience online.
 
 ### For Fun
 I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
