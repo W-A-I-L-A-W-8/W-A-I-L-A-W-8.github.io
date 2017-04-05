@@ -35,5 +35,7 @@ It's simple to do, so do not fear.
 ---
 
 Now you're in, its full speed ahead,
-Check out [sass-lang.com](http://sass-lang.com/documentation/file.SASS_REFERENCE.html), 
+
+Check out [sass language.com](http://sass-lang.com/documentation/file.SASS_REFERENCE.html), 
+
 For some light reading in bed.
