@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog
-permalink: /blog/
+title: Notes
+permalink: /notes/
 published: true
 navigation_weight: 1
 ---
