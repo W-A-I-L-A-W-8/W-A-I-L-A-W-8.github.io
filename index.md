@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Notes
-permalink: /notes/
+title: Home
 published: true
 navigation_weight: 1
 ---
