@@ -6,7 +6,7 @@ published: true
 navigation_weight: 2
 ---
 
-# About
+# Biography
 
 Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is Wai (pronounced **way**) and my closest buddies call me **Waister**.
 
