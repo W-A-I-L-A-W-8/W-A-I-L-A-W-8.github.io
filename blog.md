@@ -2,7 +2,7 @@
 layout: default
 title: Notes
 permalink: /notes/
-published: true
+published: false
 navigation_weight: 1
 ---
 
