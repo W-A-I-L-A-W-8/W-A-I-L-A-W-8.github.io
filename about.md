@@ -18,6 +18,8 @@ Despite my love of computing and gaming I chose Business as my major, mainly bec
 
 My Father and Uncles were all in business so having grown up around them I have adopted their commercial mindedness and I approach web design with this same mindset. My aim is to deliver high quality designs to schedule, solve your problems and allow your users to have the best possible experience online.
 
+I care about the engagement of your site and create better page experiences  for you using information research methods and testing.
+
 ### For Fun
 I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 
@@ -32,7 +34,7 @@ I have a section on this website where I write about random things and stuff I h
 ### Travel Direct Ltd
 __Static website development and CMS Integration__
 
-* Redesign of client side components and elements. 
+* Redesign of client side components. 
 * Development of editable templates in preparation for integration with Umbraco CMS. 
 * Email marketing.
 * Blog and article layout designs.
