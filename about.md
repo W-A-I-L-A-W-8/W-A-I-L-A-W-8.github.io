@@ -50,5 +50,3 @@ I have a section on this website where I write about random things and stuff I h
 > __Michael Pullman__, Marketing Manager, Wild Frontiers Travel
 
 ###### [Read other testimonials >](/reviews/)
-
----
