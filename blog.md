@@ -2,8 +2,8 @@
 layout: default
 title: Notes
 permalink: /notes/
-published: false
-navigation_weight: 1
+published: true
+navigation_weight: 3
 ---
 
 <div class="posts">

@@ -8,59 +8,43 @@
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
+
     <link href="{{ site.baseurl }}/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-      
-    <!-- Start of HubSpot Embed Code -->
-    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2835370.js"></script>
-    <!-- End of HubSpot Embed Code -->
-      
-    <!-- Hotjar Tracking Code for http://www.wailaw.me -->
-    <script>
-        (function(h,o,t,j,a,r){
-            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-            h._hjSettings={hjid:276435,hjsv:5};
-            a=o.getElementsByTagName('head')[0];
-            r=o.createElement('script');r.async=1;
-            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-    </script>
+
   </head>
 
   <body>
-    
+
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/">
-                <svg xmlns="http://www.w3.org/2000/svg" width="300" height="90" viewBox="0 0 960 200"><text class="logoWai" transform="matrix(1.5914 0 0 1 48.5762 173.3115)" font-family="'Helvetica'" font-size="80" letter-spacing="8.797" fill="#F55567">wailaw</text>
-                </svg>
+              <img src="../images/wailaw_logo_montserrat200.png">
           </a>
-          
+
           <nav>
-            
+
               {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
               {% for p in navigation_pages %}
                 {% if p.navigation_weight %}
-  
+
                     <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
                       {{ p.title }}
                     </a>
-                  
+
                 {% endif %}
               {% endfor %}
-            
+
           </nav>
-          
+
         </header>
       </div>
     </div>
-    
+
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
@@ -69,7 +53,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-            <p class="about-excerpt">I'm Wai, a digital professional with expertise in web design, UX and client-side development and also an occasional video editor. I have walked a marathon but yet to run one and I am very fond of bread.</p>
+            <p class="about-excerpt">I'm Wai, an Umbraco Certified Expert with expertise in web design, UX and client-side development and also an occasional video editor. I have walked a marathon but yet to run one and I am very fond of bread.</p>
             <h6><a href="mailto:hello@wailaw.me">email me: hello at wailaw dot me</a></h6>
         </footer>
       </div>
@@ -84,7 +68,7 @@
         <li><h6><a href="/starter-websites">Got a New Business?</a></h6></li>
       </ul>
    </div>
-      
+
     {% include analytics.html %}
     <script src="//code.jquery.com/jquery-latest.js"></script>
   </body>
