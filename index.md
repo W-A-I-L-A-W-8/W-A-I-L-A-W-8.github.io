@@ -6,7 +6,7 @@ published: true
 
 # Declutter your content heavy website and increase conversions with a flexible CMS, tailored functionality and features.
 
-My name is Wai, I come from a background in web design but for the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from client and user-side through harnessing the power of Umbraco and it's features.  I am a Umbraco Certified Expert and also familiar with WordPress and more recently, Jekyll, the static site generator.
+My name is Wai, I come from a background in web design but for the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from client and user-side through harnessing the power of Umbraco and it's features.  I am a Umbraco Certified Expert and also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.
 
 ### Want to talk about a project?
 

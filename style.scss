@@ -268,11 +268,12 @@ nav {
 .page {
   padding: 50px;
   border-bottom: 1px solid $lightGray;
-    img {
-    float: left;
-    width: 120px;
-    margin: 0 10px;
-    border-radius: 6px;
+
+    .profilePic img {
+        float: left;
+        width: 160px;
+        margin: 10px 13px 0 0;
+        border-radius: 6px;
     }
     @include mobile {
         padding: 15px 10px;
