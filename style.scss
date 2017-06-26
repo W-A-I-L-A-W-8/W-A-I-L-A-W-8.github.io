@@ -248,7 +248,7 @@ nav {
     text-align: right;
     font-weight: 200;
     letter-spacing: 5px;
-    
+
     @include mobile {
       margin: 0 10px;
       color: $accent;
@@ -268,7 +268,12 @@ nav {
 .page {
   padding: 50px;
   border-bottom: 1px solid $lightGray;
-    
+    img {
+    float: left;
+    width: 120px;
+    margin: 0 10px;
+    border-radius: 6px;
+    }
     @include mobile {
         padding: 15px 10px;
     }
@@ -288,7 +293,7 @@ nav {
     background: $white;
     padding: 50px;
     border-radius: 6px;
-    
+
     @include mobile {
         padding: 15px 10px;
     }
@@ -315,11 +320,11 @@ nav {
 }
 
 .share {
-  text-align: right; 
+  text-align: right;
 }
 
 .related {
-  padding: 0 10px;      
+  padding: 0 10px;
 }
 
 blockquote {
@@ -340,7 +345,7 @@ blockquote {
         border-radius: 50%;
     }
     @include mobile {
-       margin: 0.1em 1em; 
+       margin: 0.1em 1em;
     }
 }
 
@@ -362,7 +367,7 @@ footer p.about-excerpt {
     background: $accent;
     position: relative;
     bottom: 0;
-    
+
     ul {
     list-style: none;
     display: block;
@@ -370,13 +375,13 @@ footer p.about-excerpt {
     text-align: center;
     padding: 10px 0;
     }
-        
+
     li {
     font-size: 12px;
     display: inline;
     padding: 10px 3px;
     }
-    
+
     a {
     text-decoration: none;
     text-transform: uppercase;
