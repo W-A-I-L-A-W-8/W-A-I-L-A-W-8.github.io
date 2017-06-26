@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video
-published: true
+published: false
 ---
 
 # Why Video?
