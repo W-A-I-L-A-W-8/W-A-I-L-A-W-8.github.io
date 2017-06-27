@@ -10,13 +10,13 @@ navigation_weight: 2
 
 {% include/profile-image.html %}
 
-Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is Wai (pronounced **way**) and my closest buddies call me **Waister**.
+Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
 
 I am a business Grad, self-taught Web Designer, Front End Developer and Umbraco Certified Expert supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
 
 Despite my love of computing and gaming I chose Business as my major, mainly because I was told by family and friends that I would get a better paid job on graduating. So as an impressionable young man I gladly accepted their advice. Unfortunately I wasn't very fond of my course and wanted to drop-out after the first month. However, I stuck at it and soon learnt to appreciate various aspects of my degree and how it could benefit me. For example, there were modules that taught me how to be entrepreneurial, I learnt how to look after my profit and losses and how to promote a business. These lessons would prove to be beneficial later on in life.
 
-A few years ago I was in the unfortunate position of being told that I had the dreaded 'C' disease.  It was a strange one as a lump had manifested itself around my shoulder blade.  In the medical world this is know as CUP (Cancer of Unknown Primary) which means the doctors could not pin-point where the mutation had started.  
+A few years ago I was in the unfortunate position of being told that I had the dreaded 'C' disease.  It was a strange one as a lump had manifested itself around my shoulder blade.  In the medical world this is known as CUP (Cancer of Unknown Primary) which means the doctors could not pin-point where the mutation had started.  
 
 At the time it seemed like I would have to face my own mortality but luckily the surgeons did a fantastic job of removing the whole lump (the size of my fist).  I underwent some radiotherapy and almost 8 years on I am deemed as cured but at high risk by my consultant.  
 
