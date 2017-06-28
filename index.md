@@ -4,11 +4,11 @@ title: Home
 published: true
 ---
 
-# Declutter your content heavy website and increase conversions with a flexible CMS, tailored functionality and features.
+# Declutter your content heavy website with a flexible CMS, tailored functionality and features.
 
 {% include/profile-image.html %}
 
-My name is Wai, I come from a background in web design but for the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user-side, harnessing the power of Umbraco and it's features.  I am an Umbraco Certified Expert and also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.
+My name is Wai, I come from a background in web design but for the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user-side, harnessing the power of Umbraco and it's features.  I am an Umbraco Certified Expert and also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.  [Read More &rarr;](/about/)
 
 ### Want to talk about a project?
 
