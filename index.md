@@ -17,7 +17,7 @@ Hi I'm Wai, a web designer by trade and for the last couple years I have worked 
 
 I have a great understanding of building engaging web layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
 
-![Jonny Bealby](/images/testimonial-pics/jonny.jpg "Jonny Bealby")
+> ![Jonny Bealby](/images/testimonial-pics/jonny.jpg "Jonny Bealby")
 >
 > "Working with Wai on my website has been a joy; quick, efficient and friendly. I wholeheartedly recommend him and his services.
 >
