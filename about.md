@@ -6,7 +6,7 @@ published: true
 navigation_weight: 2
 ---
 
-# Biography
+# Why Wai?
 
 {% include/profile-image.html %}
 
@@ -48,5 +48,3 @@ I have a section on this website where I write about random things and stuff I h
 > occasions he came up with innovative problem-solving solutions which contributed greatly to the successful outcome of the projects. I would not hesitate in recommending his services.
 >
 > __Michael Pullman__, Marketing Manager, Wild Frontiers Travel
-
-###### [Read other testimonials >](/reviews/)
