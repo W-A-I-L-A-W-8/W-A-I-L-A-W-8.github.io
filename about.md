@@ -42,9 +42,8 @@ I have a section on this website where I write about random things and stuff I h
 
 ---
 
-> ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
+> ![Jonny Bealby](/images/testimonial-pics/jonny.jpg "Jonny Bealby")
 >
-> "I have worked with Wai on a number of projects, including building a website, SEO consultancy and video production. He is quick, efficient and a pleasure to work with. On a number of
-> occasions he came up with innovative problem-solving solutions which contributed greatly to the successful outcome of the projects. I would not hesitate in recommending his services.
+> "Working with Wai on my website has been a joy; quick, efficient and friendly. I wholeheartedly recommend him and his services.
 >
-> __Michael Pullman__, Marketing Manager, Wild Frontiers Travel
+> __Jonny Bealby__, Writer & Travel Entrepreneur

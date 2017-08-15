@@ -13,13 +13,6 @@ published: true
 >
 > __Jonny Bealby__, Writer & Travel Entrepreneur
 
-> ![Nardia Sullivan](/images/testimonial-pics/nardia-wff.jpg "Nardia Sullivan")
->
-> "We are thrilled with the new Wild Frontiers Foundation website. With Wai’s expertise and eye for design we now > have a platform that offers our charity and the vulnerable communities we support a real voice. Wai’s ongoing
-> technical support is very much appreciated. He is a pleasure to work with.
->
-> __Nardia Sullivan__, Wild Frontiers Foundation
-
 > ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 >
 > "I contacted Wai to help me with my website after being frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a
