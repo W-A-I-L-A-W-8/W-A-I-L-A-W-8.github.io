@@ -12,17 +12,19 @@ For the last couple years I have worked exclusively on Umbraco websites as an im
 1. Send me an email [hello@wailaw.me &rarr;](mailto:hello@wailaw.me) or
 2. Use this form, [start a project &rarr;](/enquiry/)
 
+> ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
+>
+> "I have worked with Wai on a number of projects, including building a website, SEO consultancy and video production. He is quick, efficient and a pleasure to work with. On a number of
+> occasions he came up with innovative problem-solving solutions which contributed greatly to the successful outcome of the projects. I would not hesitate in recommending his services.
+>
+> __Michael Pullman__, Marketing Manager, Wild Frontiers Travel
+
+
+I have a great understanding of building engaging web layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
+
 > ![Claire Mullin](/images/testimonial-pics/claire.jpg "Claire Mullin")
 >
 > "I contacted Wai to help me with my website after being frustrated with the original designer. Not only was he a pleasure to work with, listening to all my needs, he then worked very quickly and suggested a
 > number of improvements I hadn't thought about. Once he had worked his magic the site looks and functions to a much higher standard. I can't recommend Wai enough!
 >
 > __Claire Mullin__, Claire's Creative Bakes
-
-I have a great understanding of building engaging web layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
-
-> ![Jonny Bealby](/images/testimonial-pics/jonny.jpg "Jonny Bealby")
->
-> "Working with Wai on my website has been a joy; quick, efficient and friendly. I wholeheartedly recommend him and his services.
->
-> __Jonny Bealby__, Writer & Travel Entrepreneur
