@@ -4,8 +4,6 @@ title: Home
 published: true
 ---
 
-{% include/profile-image.html %}
-
 # Hi I'm Wai Law, Front End Developer and Umbraco Certified Expert.
 For the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user-side, harnessing the power of Umbraco and it's features.  I am also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.  [Read More &rarr;](/about/)
 
