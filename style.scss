@@ -476,6 +476,11 @@ img {
   padding: 20px 0;
   border-bottom: 0px solid $lightGray;
 
+  img {
+    border-radius: 50%;
+    width: 60px;
+  }
+
   @include mobile {
     text-align: center;
   }
