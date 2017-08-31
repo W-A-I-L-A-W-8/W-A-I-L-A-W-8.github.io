@@ -315,7 +315,7 @@ html {
 
 body {
 	background: $white;
-  font: 17px/1.4 $worksans;
+  font: 17px/1.4 $helveticaNeue;
   color: $gray;
   letter-spacing: 2px;
   line-height: 1.5;
@@ -536,7 +536,7 @@ img {
 nav {
   float: right;
   margin-top: 75px; // @TODO: Vertically middle align
-  font-family: $worksans;
+  font-family: $helveticaNeue;
   font-size: 16px;
 
   @include mobile {
@@ -641,7 +641,7 @@ blockquote {
   color: $gray;
   text-align: left;
   font-size: 14px;
-  font-family: $helveticaNeue;
+  font-family: $worksans;
   letter-spacing: 2px;
     img {
         float: left;
