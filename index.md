@@ -9,8 +9,7 @@ For the last couple years I have worked exclusively on Umbraco websites as an im
 
 ### Want to declutter your content heavy website with a flexible CMS? Lets talk!
 
-1. Send me an email [hello@wailaw.me &rarr;](mailto:hello@wailaw.me) or
-2. Use this form, [start a project &rarr;](/enquiry/)
+1. Send me an email [hello@wailaw.me &rarr;](mailto:hello@wailaw.me)
 
 > ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
 >
