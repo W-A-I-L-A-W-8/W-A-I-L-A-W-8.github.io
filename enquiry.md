@@ -10,7 +10,7 @@ Looking to kick-start your project? or you have some questions and wish to get i
 
 > ![Nardia Sullivan](/images/testimonial-pics/nardia-wff.jpg "Nardia Sullivan")
 >
-> "We are thrilled with the new Wild Frontiers Foundation website. With Wai’s expertise and eye for design we now > have a platform that offers our charity and the vulnerable communities we support a real voice. Wai’s ongoing
+> We are thrilled with the new Wild Frontiers Foundation website. With Wai’s expertise and eye for design we now > have a platform that offers our charity and the vulnerable communities we support a real voice. Wai’s ongoing
 > technical support is very much appreciated. He is a pleasure to work with.
 >
 > __Nardia Sullivan__, Wild Frontiers Foundation

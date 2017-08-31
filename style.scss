@@ -377,7 +377,7 @@ p {
 
 hr {
   border-top: 1px;
-  width: 85%;
+  width: 30%;
   margin: 35px auto;
 }
 
@@ -571,7 +571,6 @@ nav {
 
 .page {
   padding: 50px;
-  border-bottom: 1px solid $lightGray;
 
     img.profilePic {
         float: right;
@@ -640,12 +639,12 @@ blockquote {
   padding: 1em 2em;
   color: $gray;
   text-align: left;
-  font-size: 14px;
+  font-size: 12px;
   font-family: $prozalibre;
   letter-spacing: 2px;
     img {
         float: left;
-        width: 80px;
+        width: 90px;
         margin: 0 10px;
         border-radius: 50%;
     }
