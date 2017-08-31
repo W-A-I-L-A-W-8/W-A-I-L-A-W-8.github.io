@@ -4,7 +4,7 @@
 //
 // IMPORTS
 //
-@import url('https://fonts.googleapis.com/css?family=Seymour+One|Nobile');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -315,14 +315,14 @@ html {
 
 body {
 	background: $white;
-  font: 17px/1.4 $nobile;
+  font: 17px/1.4 $worksans;
   color: $gray;
   letter-spacing: 2px;
   line-height: 1.5;
 }
 
 .logoWai {
-    font-family: $seymourone;
+    font-family: $worksans;
     @include mobile {
         width: 200px;
     }
@@ -336,7 +336,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $seymourone;
+  font-family: $worksans;
   color: $gray;
   font-weight: lighter;
   text-transform: uppercase;
@@ -516,7 +516,7 @@ img {
   margin: 0;
   color: $gray;
   cursor: pointer;
-  font-family: $seymourone;
+  font-family: $worksans;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -536,7 +536,7 @@ img {
 nav {
   float: right;
   margin-top: 75px; // @TODO: Vertically middle align
-  font-family: $nobile;
+  font-family: $worksans;
   font-size: 16px;
 
   @include mobile {
