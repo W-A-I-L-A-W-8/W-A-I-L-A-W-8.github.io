@@ -8,7 +8,7 @@ published: true
 # Wai Law
 [My story &rarr;](/about/)
 
-
+<hr />
 
 > ![Michael Pullman](/images/testimonial-pics/mike-100x100.jpg "Michael Pullman")
 >
