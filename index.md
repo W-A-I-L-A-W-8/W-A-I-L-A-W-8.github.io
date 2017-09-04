@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-##### Front End Developer_
+##### Front End Developer
 # Wai Law
 [My story &rarr;](/about/)
 

@@ -339,11 +339,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $prozalibre;
   color: $gray;
   font-weight: lighter;
-  text-transform: uppercase;
   letter-spacing: 3px;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.1;
+  margin: 0.1em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -352,7 +350,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+    font-size: 45px;
+    text-transform: uppercase;
   a {
     color: inherit;
   }
