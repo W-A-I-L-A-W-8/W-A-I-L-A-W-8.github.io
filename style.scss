@@ -341,11 +341,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: lighter;
   letter-spacing: 3px;
   line-height: 1.1;
+  text-transform: none;
   margin: 0.1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.1;
   }
 }
 
