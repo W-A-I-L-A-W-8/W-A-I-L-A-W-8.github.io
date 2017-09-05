@@ -557,6 +557,10 @@ nav {
       margin: 0 10px;
       color: $black;
     }
+    &:hover, &:active {
+      color: $black;
+      border-left: 2px solid $black;
+    }
   }
 }
 
