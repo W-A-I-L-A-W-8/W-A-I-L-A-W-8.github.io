@@ -330,7 +330,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
@@ -426,6 +426,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  box-shadow: 1px 4px 15px #999;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -635,20 +636,29 @@ nav {
 }
 
 blockquote {
-  background: $transWhite;
-  border-radius: 8px;
-  box-shadow: 1px 1px 1px $gray;
+  border-radius: 10px;
+  border-left: 3px solid $lightGray;
   margin: 30px 0;
   padding: 1em 2em;
   color: $gray;
   text-align: left;
-  font-size: 12px;
+  font-size: 20px;
   font-family: $prozalibre;
   letter-spacing: 2px;
+    cite {
+      font-weight: 600;
+    }
+    h6 {
+      font-size: 0.67em;
+      text-transform: uppercase;
+    }
+    span {
+      color: $black;
+    }
     img {
         float: left;
-        width: 90px;
-        margin: 0 10px;
+        width: 60px;
+        margin: -5px 12px 2px 0;
         border-radius: 50%;
     }
     @include mobile {
