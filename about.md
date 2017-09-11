@@ -45,5 +45,3 @@ I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chop
 I have a section on this website where I write about random things and stuff I have come across on the web that have either, enlightened me, helped with a task or offered some insight or some useful knowledge. These maybe be of interest, you may even benefit for them. You can enjoy these short snippets [over here >](/notes/)
 
 ---
-
-{% include/review-jonny.html %}
