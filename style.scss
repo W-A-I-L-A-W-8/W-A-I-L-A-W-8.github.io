@@ -635,6 +635,16 @@ nav {
   padding: 0 10px;
 }
 
+blockquote::before {
+    content: "\275D";
+    font-size: 95px;
+    float: left;
+    line-height: 15px;
+    padding-right: 4px;
+    padding-top: 18px;
+    color: #26d991;
+}
+
 blockquote {
   border-radius: 10px;
   border-left: 3px solid $lightGray;
@@ -708,8 +718,7 @@ left: 70px;
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  background-color: $white;
+  background-color: transparent;
 }
 
 footer {
@@ -745,6 +754,9 @@ footer p.about-excerpt {
     text-transform: uppercase;
     transition: .3s;
     color: $white;
+    &:hover, &:active {
+      text-shadow: 2px 5px 5px;
+      }
     }
 }
 

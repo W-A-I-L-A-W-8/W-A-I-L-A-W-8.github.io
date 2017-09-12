@@ -55,6 +55,11 @@ baseurl: ""
 
 permalink: /categories/:title/
 
+collections:
+  work:
+    output: true
+    permalink: /work/:path/
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 

@@ -12,7 +12,7 @@ Born, year of the horse in a small market town in the UK, to parents from Hong K
 
 {% include profile-image.html %}
 
-I am a business Grad, self-taught Web Designer, Front End Developer and Umbraco Certified Expert supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
+I am a business Grad, self-taught Web Designer, Front End Developer and [Umbraco Certified Expert](/wailaw-umbraco-certified-expert/) supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
 
 For the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user-side, harnessing the power of Umbraco and it's features.  I am also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.
 
