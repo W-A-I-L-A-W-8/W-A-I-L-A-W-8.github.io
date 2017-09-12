@@ -9,7 +9,7 @@ name: Wai Law
 description: Umbraco Certified Expert, Web Designer, Front End Developer supporting the travel industries.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://wailaw.me/images/wailaw_logo.svg
+avatar: http://wailaw.me/images/wailaw-instagram-profile.jpg
 
 #
 # Flags below are optional
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: :title/
+permalink: /categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
