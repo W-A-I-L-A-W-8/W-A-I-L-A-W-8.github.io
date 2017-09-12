@@ -661,6 +661,15 @@ blockquote {
         margin: -5px 12px 2px 0;
         border-radius: 3px;
     }
+    p:before {
+      content: "\275D";
+      font-size: 100px;
+      float: left;
+      line-height: 15px;
+      padding-right: 4px;
+      padding-top: 18px;
+      color: #00C853;
+    }
     @include mobile {
        margin: 0.1em 1em;
     }
