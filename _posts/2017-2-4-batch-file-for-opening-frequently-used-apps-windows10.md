@@ -2,7 +2,7 @@
 layout: post
 title: Useful little batch file for opening frequently used applications in Windows 10
 published: true
-categories: Might be Useful
+categories: Useful
 ---
 
 As a web designer there are several applications I need to run on a daily basis clocking up plenty of RAM. How many do you run? I personally found it a rather tedious task to have to double-click on every application, one after the other, each morning I was in the office, wasting valuable minutes. Fortunately, you can create a batch file (.bat) to launch your programs with a pair of clicks.

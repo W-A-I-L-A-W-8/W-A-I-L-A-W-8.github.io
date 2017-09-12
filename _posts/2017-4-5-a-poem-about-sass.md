@@ -2,7 +2,7 @@
 layout: post
 title: A poem about SASS
 published: true
-categories: [Front End, Random]
+categories: [Front-end, Random]
 ---
 
 This is a story about a thing called SASS,

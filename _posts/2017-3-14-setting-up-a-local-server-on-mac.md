@@ -2,7 +2,7 @@
 layout: post
 title: Starting a simple local server on MAC from any directory
 published: true
-categories: Might be Useful
+categories: Useful
 ---
 
 So you want to test your static website on a local server? If you're a MAC owner there is only one command you need to start a server from any directory you wish to test. Before I continue, a thank you to an article I found on [Lifehacker](http://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450) for the reference.

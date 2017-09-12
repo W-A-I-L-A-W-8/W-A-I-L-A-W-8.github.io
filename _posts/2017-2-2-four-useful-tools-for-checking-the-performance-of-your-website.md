@@ -2,7 +2,7 @@
 layout: post
 title: Four useful tools for checking the performance of your website
 published: true
-categories: Front End
+categories: Front-end
 ---
 
 Nobody likes a slow website, make sure your website is performing.  You can test it with these three popular tools.

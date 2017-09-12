@@ -3,7 +3,7 @@ layout: post
 title: Anti-render blocking CSS
 published: true
 navigation_weight: 1
-categories: Front End
+categories: Front-end
 ---
 
 I came across this great resource a few weeks ago. It is about techniques used to eliminate render blocking CSS. It is really easy to read and understand and you can start applying the methods immediately. Hence I wanted to share this with you.

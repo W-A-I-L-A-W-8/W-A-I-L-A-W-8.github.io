@@ -3,7 +3,7 @@ layout: post
 title: Cache Leveraging
 published: true
 navigation_weight: 1
-categories: Front End
+categories: Front-end
 ---
 
 I recently came across another great article on the [Varvy](https://varvy.com/pagespeed/leverage-browser-caching.html) website which describes in simple to understand language the best methods cache leveraging.

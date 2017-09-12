@@ -2,7 +2,7 @@
 layout: post
 title: Remove url extensions from static site pages using .htaccess
 published: true
-categories: Might be Useful
+categories: Useful
 ---
 
 So you have built yourself a static website, uploaded the files to your favourite host and deployed it. You think it looks great but there is one thing that is still bothering you.
