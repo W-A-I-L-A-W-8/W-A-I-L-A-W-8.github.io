@@ -2,6 +2,7 @@
 layout: post
 title: Create an Umbraco custom welcome dashboard
 published: true
+categories: [Umbraco, CMS]
 ---
 
 For a more personal experience for your editors why not create a custom welcome dashboard on your Umbraco website. This can be achieved in a few simple steps from Visual Studio. I had to do it recently for a client site and my main source of reference for this was an article published on the Umbraco site.
