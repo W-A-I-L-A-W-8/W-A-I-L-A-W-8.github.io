@@ -9,7 +9,7 @@ published: true
 
 Umbraco Certified Expert is a developer who has an expanded understanding of Umbraco. This is achieved by attending multiple training courses on both the fundamentals and developer specialisations. Certified Experts know the full development lifecycle of an Umbraco website and can manage advanced projects.
 
-# What is Umbraco
+## What is Umbraco
 
 Umbraco is a fully-featured open source content management system with the flexibility to run anything from a small campaign or brochure site, right through to complex applications for Fortune 500's and some of the largest media sites in the world.
 
