@@ -16,13 +16,13 @@ published: true
 
 ### Latest Posts
 
-  {% for post in site.posts limit:2 %}
-    {% if post.type != "portfolio" %}
+{% for post in site.posts limit:2 %}
+  {% if post.type != "portfolio" %}
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Have a gander &rarr;</a>
-    {% endif %}
-  {% endfor %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Have a gander &rarr;</a>
+  {% endif %}
+{% endfor %}
 
 <hr />
