@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<!-- Main Article Content -->
+<article class="work">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+</article>
+<!-- #Main Article Content -->
+
+<hr>
+
+  <!-- Other Work -->
+  <div class="related">
+      <h2>Other Work</h2>
+      <ul>
+        {% for work in site.related_works limit:3 %}
+          {% if work.type != "portfolio" %}
+          <a href="{{ work.url }}">
+              <li>
+              <h4>{{ work.title }}</h4>
+              </li>
+          </a>
+          {% endif %}
+        {% endfor %}
+      </ul>
+  </div>
+  <!-- #Other Work -->
