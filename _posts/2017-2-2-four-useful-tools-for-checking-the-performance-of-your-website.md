@@ -2,6 +2,7 @@
 layout: post
 title: Four useful tools for checking the performance of your website
 published: true
+categories: Front End
 ---
 
 Nobody likes a slow website, make sure your website is performing.  You can test it with these three popular tools.
@@ -23,6 +24,6 @@ If you don't like any of the tools above, you can try this one too:
 
 ## [Varvy Page Speed Tool](https://varvy.com/pagespeed/)
 Varvy's mantra is all about optimisation and speed. They have developed a number of tools to help improve the performance of your site. I like it because they can process your site fast and the report is detailed, clear and concise. You get a good overview of site's speed at a glance.
- 
+
 ## To Conclude
 Try all the tools above and figure out which one is most suited to your site or which one you simply prefer. I test my sites on all of them to obtain a thorough overview of all my websites.

@@ -3,6 +3,7 @@ layout: post
 title: Anti-render blocking CSS
 published: true
 navigation_weight: 1
+categories: Front End
 ---
 
 I came across this great resource a few weeks ago. It is about techniques used to eliminate render blocking CSS. It is really easy to read and understand and you can start applying the methods immediately. Hence I wanted to share this with you.
@@ -16,9 +17,9 @@ The article I am about to link to written by [Patrick Sexton](https://varvy.com/
 ### What to expect
 1. HOW TO CALL CSS PROPERLY
 2. LESSEN THE AMOUNT OF CSS FILES IN THE CRITICAL PATH
-3. USING THE LEAST AMOUNT OF CSS YOU CAN GET AWAY WITH 
+3. USING THE LEAST AMOUNT OF CSS YOU CAN GET AWAY WITH
 
-You can check out the article here 
+You can check out the article here
 [https://varvy.com/pagespeed/render-blocking-css.html](https://varvy.com/pagespeed/render-blocking-css.html)
 
 ### Happy Render Blocking!

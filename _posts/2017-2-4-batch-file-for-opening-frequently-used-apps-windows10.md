@@ -2,6 +2,7 @@
 layout: post
 title: Useful little batch file for opening frequently used applications in Windows 10
 published: true
+categories: Might be Useful
 ---
 
 As a web designer there are several applications I need to run on a daily basis clocking up plenty of RAM. How many do you run? I personally found it a rather tedious task to have to double-click on every application, one after the other, each morning I was in the office, wasting valuable minutes. Fortunately, you can create a batch file (.bat) to launch your programs with a pair of clicks.
@@ -9,7 +10,7 @@ As a web designer there are several applications I need to run on a daily basis 
 "It may only be seconds saved but shaving any time from your daily grind can help to improve your working life".
 
     *This post is applicable for Windows 10
-        
+
 ### CREATING A BATCH FILE
 1. OPEN UP A NEW FILE IN NOTEPAD OR SIMILAR
 2. SAVE AS 'NAMEOFFILE' + THE EXTENSION .BAT. E.G _**NAMEOFFILE.BAT**_
@@ -40,6 +41,3 @@ To do this, locate the application in 'All Apps', right click it, hover over 'mo
 The location is in the target field which you can copy and paste.
 
 ![Alt text](/images/post/20160908030836-app-target.jpg)
-
-
-

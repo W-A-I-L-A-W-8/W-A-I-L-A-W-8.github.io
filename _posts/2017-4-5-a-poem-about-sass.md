@@ -2,6 +2,7 @@
 layout: post
 title: A poem about SASS
 published: true
+categories: [Front End, Random]
 ---
 
 This is a story about a thing called SASS,
@@ -36,6 +37,6 @@ It's simple to do, so do not fear.
 
 Now you're in, its full speed ahead,
 
-Check out [sass language.com](http://sass-lang.com/documentation/file.SASS_REFERENCE.html), 
+Check out [sass language.com](http://sass-lang.com/documentation/file.SASS_REFERENCE.html),
 
 For some light reading in bed.

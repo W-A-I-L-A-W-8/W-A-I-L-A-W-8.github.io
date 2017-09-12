@@ -2,6 +2,7 @@
 layout: post
 title: PHP code for updating the year automatically in WordPress
 published: true
+categories: [WordPress, CMS]
 ---
 
 Loading more than one Google font in one request can help to speed up page load time and keep your code tidy.

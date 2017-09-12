@@ -2,6 +2,7 @@
 layout: post
 title: Adding a 404 page to your website using .htaccess
 published: true
+categories: Might be Useful
 ---
 
 So, you've designed a great looking and unique 404 error page but what do you do with it?
