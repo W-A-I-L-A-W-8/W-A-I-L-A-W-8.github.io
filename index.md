@@ -4,17 +4,7 @@ title: Home
 published: true
 ---
 
-<div id=container>
-  Wai Law
-  <div id=flip>
-    <div><div>Umbraco</div></div>
-    <div><div>WordPress</div></div>
-    <div><div>Jekyll</div></div>
-  </div>
-  Developer
-</div>
-
-<p><a href="">Read more &rarr;</a></p>
+{% include animated-intro.html %}
 
 <hr />
 
