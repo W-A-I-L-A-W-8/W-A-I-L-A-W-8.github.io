@@ -4,7 +4,9 @@ title: Home
 published: true
 ---
 
-{% include welcome-text.html %}
+# Wai Law
+##### Designer &amp; Developer
+[My story &rarr;](/about/)
 
 <hr />
 
