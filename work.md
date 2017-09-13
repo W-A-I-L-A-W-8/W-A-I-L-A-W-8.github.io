@@ -14,15 +14,15 @@ navigation_weight: 4
 - Making changes to Umbraco templates and document types for one of the travel brands I currently work for, traveldirect.co.uk.
 - Working as part a team to finalise a practical GIT environment strategy (ENV) to compliment our team workflow.
 
+<hr />
+
 ### Some recent projects.
 There's more to come but I'm yet to find the time to write my content and upload it.
 
-<article class="post">
 {% for work in site.work %}
 <h3>
 <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
 </h3>
 {% endfor %}
-</article>
 
 <hr />
