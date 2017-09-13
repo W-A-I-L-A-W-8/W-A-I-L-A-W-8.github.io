@@ -12,7 +12,7 @@ navigation_weight: 4
 - Migrating a Cuba specialist travel site to Umbraco CMS.
 - Learning Python because I like the sound of the language.
 - Making changes to Umbraco templates and document types for one of the travel brands I currently work for, traveldirect.co.uk.
-- Working as part a team to finalise a practical [GIT environment strategy](/git-environment-strategy/) (ENV) to compliment our team workflow.
+- Working as part a team to finalise a practical GIT environment strategy (ENV) to compliment our team workflow.
 
 ### Some recent projects.
 There's more to come but I'm yet to find the time to write my content and upload it.
@@ -22,6 +22,6 @@ There's more to come but I'm yet to find the time to write my content and upload
     <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
   </h2>
   <div class="entry">
-    {{ post.excerpt | truncate: 250 }}
+    {{ work.excerpt | truncate: 250 }}
   </div>
 {% endfor %}
