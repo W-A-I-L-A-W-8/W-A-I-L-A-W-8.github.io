@@ -381,6 +381,18 @@ hr {
   margin: 35px auto;
 }
 
+.button-cv {
+  text-transform: uppercase;
+  background-color: $gray;
+  padding: 10px 15px;
+  color: $white;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    box-shadow: 5px 12px 12px $lightGray;
+  }
+}
+
 a {
   color: $gray;
   font-weight: bold;
