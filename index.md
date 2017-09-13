@@ -4,9 +4,17 @@ title: Home
 published: true
 ---
 
-##### Front End Developer
-# Wai Law
-[My story &rarr;](/about/)
+<div id=container>
+  Wai Law
+  <div id=flip>
+    <div><div>Umbraco</div></div>
+    <div><div>WordPress</div></div>
+    <div><div>Jekyll</div></div>
+  </div>
+  Developer
+</div>
+
+<p><a href="">Read more &rarr;</a></p>
 
 <hr />
 
