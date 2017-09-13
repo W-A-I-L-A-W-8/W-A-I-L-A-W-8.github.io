@@ -381,14 +381,14 @@ hr {
   margin: 35px auto;
 }
 
-.button-cv {
+a.button-cv {
   text-transform: uppercase;
   background-color: $gray;
   padding: 10px 15px;
   color: $white;
-  text-decoration: none;
   cursor: pointer;
   &:hover {
+    background-color: $transWhite;
     box-shadow: 5px 12px 12px $lightGray;
   }
 }
