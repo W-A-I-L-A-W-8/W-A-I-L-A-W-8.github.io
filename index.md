@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-{% include animated-intro.html %}
+{% include welcome-text.html %}
 
 <hr />
 
