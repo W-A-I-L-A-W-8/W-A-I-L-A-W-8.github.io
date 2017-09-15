@@ -384,10 +384,13 @@ hr {
 a.button-cv {
   text-transform: uppercase;
   background-color: $gray;
+<<<<<<< HEAD
   padding: 8px 15px;
+=======
+  padding: 10px 15px;
+>>>>>>> parent of 42dbceb... styled cv button
   color: $white;
   cursor: pointer;
-  transition: 0.5s;
   &:hover {
     background-color: $transWhite;
     box-shadow: 5px 12px 12px $lightGray;

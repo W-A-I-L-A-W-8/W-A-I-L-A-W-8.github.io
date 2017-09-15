@@ -3,7 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 published: true
-navigation_weight: 3
+navigation_weight: 4
 ---
 
 # What's been happening.
