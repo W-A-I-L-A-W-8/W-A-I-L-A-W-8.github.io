@@ -384,7 +384,7 @@ hr {
 a.button-cv {
   text-transform: uppercase;
   background-color: $gray;
-  padding: 18px 15px;
+  padding: 8px 15px;
   color: $white;
   cursor: pointer;
   transition: 0.5s;
@@ -747,8 +747,8 @@ footer p.about-excerpt {
 .footer-nav {
     background: $black;
     position: relative;
-    top: 50;
     bottom: 0;
+    margin-top: 50px;
 
     ul {
     list-style: none;
