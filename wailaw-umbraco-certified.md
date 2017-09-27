@@ -16,5 +16,3 @@ Umbraco is a fully-featured open source content management system with the flexi
 Umbraco is strongly supported by both an active and welcoming community of users around the world, and backed up by a rock-solid commercial organisation providing professional support and tooling. Umbraco can be used in its free, open-source format with the additional option of professional tools and support if required.
 
 ---
-
-{% include review-creativebakes.html %}
