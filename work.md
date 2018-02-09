@@ -8,8 +8,8 @@ navigation_weight: 4
 
 # What's been happening.
 
-- Emigrated to Melbourne, Australia recently. Considering my next move.
-- Built this website on Jekyll a few months ago and and still making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
+- Emigrated to Melbourne, Australia recently. Considering my next move and looking for independent contract work.
+- Built this website on Jekyll a few months ago, making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
 - Learning Python.
 - Attempting to finalise a practical GIT environment strategy (ENV) to compliment our team workflow.
 
