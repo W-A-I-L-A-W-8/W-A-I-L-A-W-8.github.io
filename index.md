@@ -5,7 +5,7 @@ published: true
 ---
 
 # Wai Law
-###### Umbraco Certified Expert | Web Developer
+###### Umbraco Certified Expert | Client-side, Web Developer
 [My story &rarr;](/about/)
 
 <hr />
