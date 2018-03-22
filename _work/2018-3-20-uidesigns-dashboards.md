@@ -7,13 +7,13 @@ published: true
 More explanation to follow but here are some before and after shots of a recent UI challenge I did.  My tool of choice was MockPlus.
 
 #### BEFORE:
-[![ENV](/images/work/Tesserent Design Challenge.png)]({{ site.baseurl }}/images/work/Tesserent Design Challenge.png)
+[![ENV](/images/work/Tesserent Design Challenge.jpg)]({{ site.baseurl }}/images/work/Tesserent Design Challenge.jpg)
 
 ---
 
 #### AFTER
 Dark and light concepts:
 
-[![ENV](/images/work/tesserent-ui-challenge-concept2.png)]({{ site.baseurl }}/images/work/tesserent-ui-challenge-concept2.png)
+[![ENV](/images/work/tesserent-ui-challenge-concept2.jpg)]({{ site.baseurl }}/images/work/tesserent-ui-challenge-concept2.jpg)
 
-[![ENV](/images/work/tesserent-ui-challenge-concept3.png)]({{ site.baseurl }}/images/work/tesserent-ui-challenge-concept3.png)
+[![ENV](/images/work/tesserent-ui-challenge-concept3.jpg)]({{ site.baseurl }}/images/work/tesserent-ui-challenge-concept3.jpg)
