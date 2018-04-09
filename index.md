@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-####I'm Wai, a one-man band who can solve your interface problems. I also happen to be an Umbraco Certified Expert and Shopify Partner.
+#### I'm Wai, a one-man band who can solve your interface problems. I also happen to be an Umbraco Certified Expert and Shopify Partner.
 
 ---
 
