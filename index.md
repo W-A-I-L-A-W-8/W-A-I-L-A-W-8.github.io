@@ -14,6 +14,7 @@ I do the following things pretty well:
 - **Umbraco**, if it's Umbraco related, I can usually give it my best shot.
 - **Shopify**, my newest service, make an online shop that sells itself.
 
+---
 
 ##### [For your eyes only, get my resume here >](/docs/cv-webDesignUIUX_wailaw.pdf/)
 
@@ -35,16 +36,16 @@ I do the following things pretty well:
 There's more to come here but I'm struggling to find the time to churn out the content. Keep checking, it'll be here soon!
 
 {% for work in site.work %}
-<h3>
+<h5>
 <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
-</h3>
+</h5>
 {% endfor %}
-<h3>
+<h5>
 <a href="{{ site.baseurl }}/categories/umbraco-text-color-picker-rich-text-editor">Umbraco, enable the text-color picker on the rich text editor and add custom colours</a>
-</h3>
-<h3>
+</h5>
+<h5>
 <a href="{{ site.baseurl }}/categories/umbraco-custom-welcome-dashboard/">Create an Umbraco custom welcome dashboard</a>
-</h3>
+</h5>
 
 ---
 
