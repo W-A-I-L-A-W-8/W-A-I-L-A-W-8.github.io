@@ -5,7 +5,7 @@ published: true
 ---
 
 # WaiLaw
-###### Umbraco Certified Expert | Web UI
+###### UI Designer | Umbraco Certified Expert
 [About &rarr;](/about/)
 
 <hr />
@@ -14,7 +14,7 @@ published: true
 
 <hr />
 
-### Useful Umbraco UI:
+## Useful Umbraco UI:
 
 {% for post in site.posts limit:2 %}
 {% if post.type != "portfolio" %}
