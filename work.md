@@ -1,9 +1,8 @@
 ---
 layout: page
-title: UI Related
+title: Work
 permalink: /work/
 published: true
-navigation_weight: 4
 ---
 
 # What's been happening.

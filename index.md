@@ -4,26 +4,20 @@ title: Home
 published: true
 ---
 
-# WaiLaw
-###### UI Designer | Umbraco Certified Expert
-[About &rarr;](/about/)
+I'm Wai, a one-man band who can solve your interface problems. I also happen to be an Umbraco Certified Expert and Shopify Partner.
 
-<hr />
+---
+
+I do the following things pretty well:
+
+- **UI Design**, useful, functional experiences.
+- **Umbraco**, if it's Umbraco related, I can usually give it my best shot.
+- **Shopify**, my newest service, make an online shop that sells itself.
+
+---
+
+<a class="button-cv" href="{{ site.baseurl }}/docs/cv-webDesignUIUX_wailaw.pdf">For your eyes only, get my resume here ></a>
 
 {% include review-mike.html %}
 
-<hr />
-
-## Useful Umbraco UI:
-
-{% for post in site.posts limit:2 %}
-{% if post.type != "portfolio" %}
-
-<h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-{{ post.excerpt | truncate: 150 }}
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Have a gander &rarr;</a>
-
-{% endif %}
-{% endfor %}
-
-<hr />
+---

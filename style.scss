@@ -332,7 +332,7 @@ body {
   margin: 0 auto;
   max-width: 900px;
   padding: 0 10px;
-  width: 100%;
+  width: 70%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -650,7 +650,7 @@ nav {
 
 blockquote::before {
     content: "\275D";
-    font-size: 95px;
+    font-size: 50px;
     float: left;
     line-height: 15px;
     padding-right: 4px;
@@ -703,7 +703,7 @@ footer p.about-excerpt {
 }
 
 .footer-nav {
-    background: $black;
+    background: transparent;
     position: relative;
     bottom: 0;
     margin-top: 50px;
@@ -726,7 +726,7 @@ footer p.about-excerpt {
     text-decoration: none;
     text-transform: uppercase;
     transition: .3s;
-    color: $white;
+    color: $black;
     &:hover, &:active {
       text-shadow: 2px 5px 5px;
       }

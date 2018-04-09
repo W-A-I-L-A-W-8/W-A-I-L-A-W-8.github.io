@@ -3,7 +3,6 @@ layout: page
 title: Umbraco
 permalink: /wailaw-umbraco-certified-expert/
 published: true
-navigation_weight: 2
 ---
 
 # What is an Umbraco Certified Expert
