@@ -4,9 +4,9 @@ title: Home
 published: true
 ---
 
-# Wai Law
-###### Umbraco Certified Expert | Web Designer UI
-[My story &rarr;](/about/)
+# WaiLaw
+###### Umbraco Certified Expert | Web UI
+[About &rarr;](/about/)
 
 <hr />
 
@@ -14,7 +14,7 @@ published: true
 
 <hr />
 
-### Latest Posts:
+### Useful Umbraco UI:
 
 {% for post in site.posts limit:2 %}
 {% if post.type != "portfolio" %}

@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 published: true
-navigation_weight: 2
 ---
 
 # My Story
