@@ -330,7 +330,7 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 550px;
+  max-width: 550px;
   padding: 0 10px;
   width: 100%;
 }
@@ -703,7 +703,7 @@ footer p.about-excerpt {
 }
 
 .footer-nav {
-    background: $white;
+    background: $black;
     position: relative;
     bottom: 0;
     margin-top: 50px;
@@ -726,7 +726,7 @@ footer p.about-excerpt {
     text-decoration: none;
     text-transform: uppercase;
     transition: .3s;
-    color: $black;
+    color: $white;
     &:hover, &:active {
       text-shadow: 2px 5px 5px;
       }
