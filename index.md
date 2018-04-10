@@ -48,4 +48,4 @@ I do the following things pretty well:
 
 ##### Kick-start a Project
 
-Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. [Email me](hello@wailaw.me) or connect on the social platforms below.
+Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
