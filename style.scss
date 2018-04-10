@@ -315,10 +315,10 @@ html {
 
 body {
 	background: $white;
-  font: 17px/1.4 $worksans;
+  font: 13px/1.4 $worksans;
   color: $gray;
   letter-spacing: 2px;
-  line-height: 1.5;
+  line-height: 2;
 }
 
 .logoWai {
@@ -625,7 +625,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 15px;
+    font-size: 13px;
     font-style: italic;
   }
 
@@ -665,7 +665,7 @@ blockquote {
   padding: 1em 2em;
   color: $gray;
   text-align: left;
-  font-size: 15px;
+  font-size: 13px;
   font-family: $prozalibre;
   letter-spacing: 2px;
     cite {
@@ -696,6 +696,10 @@ blockquote {
 footer {
   padding: 20px 0;
   text-align: center;
+
+  img {
+    height: 60px;
+  }
 }
 
 footer p.about-excerpt {
