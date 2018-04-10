@@ -330,7 +330,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 550px;
+  max-width: 600px;
   padding: 0 10px;
   width: 100%;
 }
@@ -625,7 +625,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 15px;
     font-style: italic;
   }
 
@@ -665,7 +665,7 @@ blockquote {
   padding: 1em 2em;
   color: $gray;
   text-align: left;
-  font-size: 20px;
+  font-size: 15px;
   font-family: $prozalibre;
   letter-spacing: 2px;
     cite {

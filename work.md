@@ -21,11 +21,5 @@ There's more to come here but I'm struggling to find the time to churn out the c
 <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
 </h3>
 {% endfor %}
-<h3>
-<a href="{{ site.baseurl }}/categories/umbraco-text-color-picker-rich-text-editor">Umbraco, enable the text-color picker on the rich text editor and add custom colours</a>
-</h3>
-<h3>
-<a href="{{ site.baseurl }}/categories/umbraco-custom-welcome-dashboard/">Create an Umbraco custom welcome dashboard</a>
-</h3>
 
 ---

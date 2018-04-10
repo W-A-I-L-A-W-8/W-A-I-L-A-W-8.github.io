@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-##### I'm Wai, a one-man band who can solve your interface problems. I also happen to be an Umbraco Certified Expert and Shopify Partner.
+##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems. I am also an Umbraco Certified Expert and Shopify Partner.
 
 ---
 
@@ -16,7 +16,7 @@ I do the following things pretty well:
 
 ---
 
-##### [For your eyes only, get my resume here >](/docs/cv-webDesignUIUX_wailaw.pdf/)
+##### [Hiring managers, you can get my resume here &rarr;](/docs/cv-webDesignUIUX_wailaw.pdf/)
 
 ---
 
@@ -24,7 +24,7 @@ I do the following things pretty well:
 
 ---
 
-##### What's been happening.
+##### What I have been up to
 
 - Emigrated to Melbourne, Australia two months ago.
 - Contracting at a well known Digital Transformation Specialist designing UI.
@@ -32,22 +32,31 @@ I do the following things pretty well:
 
 ---
 
-##### Recent projects.
-There's more to come here but I'm struggling to find the time to churn out the content. Keep checking, it'll be here soon!
+##### Recent work
+There's more I can show you on request, just ask me.
 
 {% for work in site.work %}
 <h5>
 <a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a>
 </h5>
 {% endfor %}
-<h5>
-<a href="{{ site.baseurl }}/categories/umbraco-text-color-picker-rich-text-editor">Umbraco, enable the text-color picker on the rich text editor and add custom colours</a>
-</h5>
-<h5>
-<a href="{{ site.baseurl }}/categories/umbraco-custom-welcome-dashboard/">Create an Umbraco custom welcome dashboard</a>
-</h5>
 
 ---
+
+{% for post in site.posts limit:2 %}
+  {% if post.type != "portfolio" %}
+  <article class="post">
+
+    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+
+    <!--- <div class="entry">
+      {{ post.excerpt | truncate: 25 }}
+    </div> --->
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more &rarr;</a>
+  </article>
+  {% endif %}
+{% endfor %}
 
 {% include review-jonny.html %}
 
