@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: Notes
 permalink: /notes/
 published: true
 ---
 
-### Recent scribbles
+## Recent scribbles
 
 <div class="posts">
   {% for post in site.posts %}
@@ -18,7 +18,6 @@ published: true
         {{ post.excerpt | truncate: 25 }}
       </div> --->
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read &rarr;</a>
     <!-- </article> -->
     {% endif %}
   {% endfor %}

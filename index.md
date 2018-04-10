@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Home
 published: true
 ---
+
+# UI, Umbraco, Shopify
 
 ##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems. I am also an Umbraco Certified Expert and Shopify Partner.
 
@@ -46,4 +48,4 @@ I do the following things pretty well:
 
 ##### Kick-start a Project
 
-Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. Email me or connect on the social platforms below.
+Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. [Email me](hello@wailaw.me) or connect on the social platforms below.
