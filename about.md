@@ -7,15 +7,15 @@ published: true
 
 ## My Story
 
-Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
+Born, year of the horse in a small market town in the UK, to parents from Hong Kong and laid back up bringing by the coast. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
 
 {% include profile-image.html %}
 
-I am a business Grad, self-taught Web Designer, Front End Developer and [Umbraco Certified Expert](/wailaw-umbraco-certified-expert/) supporting the travel industries. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
+I am a business Graduate, self-taught Web Designer, Front End Developer and [Umbraco Certified Expert](/wailaw-umbraco-certified-expert/) consulting across a variety of enterprises but with expertise in travel. I always enjoyed messing around with computers when I was younger. I wrote my first program on a BBC Micro. I made it display my name infinitely when an unsuspecting user touched the keyboard.
 
-For the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user-side, harnessing the power of Umbraco and it's features.  I am also familiar with WordPress development and more recently, Jekyll, the static site generator which, this site is built on.
+For the last couple years I have worked exclusively on Umbraco websites as an implementor/developer and I am currently in the process of migrating several travel related websites to the Umbraco CMS platform and responsible for improving user experience from a client and user side, harnessing the power of Umbraco and it's features.  I am also familiar with WordPress development and more recently, Shopify e-commerce solutions where I operate as a Shopify Partner.
 
-Despite my love of computing and gaming I chose Business as my major, mainly because I was told by family and friends that I would get a better paid job on graduating. So as an impressionable young man I gladly accepted their advice. Unfortunately I wasn't very fond of my course and wanted to drop-out after the first month. However, I stuck at it and soon learnt to appreciate various aspects of my degree and how it could benefit me. For example, there were modules that taught me how to be entrepreneurial, I learnt how to look after my profit and losses and how to promote a business. These lessons would prove to be beneficial later on in life.
+Despite my love of computing and gaming I chose Business as my major, mainly because I was told by family and friends that I would get a better paid job on graduating. So as an impressionable young man I gladly accepted their advice. Unfortunately I wasn't very fond of my course and felt like dropping out only a month into it. However, I stuck at it and soon learnt to appreciate various aspects of my degree and how it could benefit me. For example, there were modules that taught me how to be entrepreneurial, I learnt how to look after my profit and losses and how to promote a business. These lessons would prove to be beneficial later on in my career.
 
 A few years ago I was in the unfortunate position of being told that I had the dreaded 'C' disease.  It was a strange one as a lump had manifested itself around my shoulder blade.  In the medical world this is known as CUP (Cancer of Unknown Primary) which means the doctors could not pin-point where the mutation had started.  
 
@@ -31,9 +31,9 @@ I quickly left the franchise and as luck would have it a friend recommended me t
 
 My Father and Uncles were all in business so having grown up around them I have adopted their commercial mindedness and I approach web design with this same mindset. My aim is to deliver high quality designs to schedule, solve your problems and allow your users to have the best possible experience online.
 
-I care about the engagement of your site and create better page experiences for you using information research methods and testing.
+I care about the engagement of your products and create better experiences for you using metrics, design principles and testing.
 
-I have a great understanding of building engaging web layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
+I have a great understanding of building engaging layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep any code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
 
 ##### For Fun
 I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
