@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Start a Project
-published: true
+published: false
 ---
 
 # Start a Project or just get in touch

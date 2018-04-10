@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 published: true
 ---
 
-# My Story
+## My Story
 
 Born, year of the horse in a small market town in the UK, to parents from Hong Kong and grew up by the sea. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
 
@@ -35,14 +35,16 @@ I care about the engagement of your site and create better page experiences for 
 
 I have a great understanding of building engaging web layouts and deliver solutions that are measurable. I am capable of adapting to your team's workflow and design requirements. I practice the latest web standards and keep code clean and well commented. With my experience I have knowledge I love to share. My rates are competitive and I enjoy working flexibly.
 
-### For Fun
+##### For Fun
 I enjoy scootering with my toddler, craft ale, coffee, tennis, whisky, pork chops and I love bread. I have walked a marathon but still yet to run one.
 
 ---
 
-### My Scribbles
+##### My Scribbles
 I have a section on this website where I write about random things and stuff I have come across on the web that have either, enlightened me, helped with a task or offered some insight or some useful knowledge. These maybe be of interest, you may even benefit for them. You can enjoy these short snippets [over here >](/notes/)
 
 ---
 
-{% include review-jonny.html %}
+{% include/review-wildfrontiersfoundation.html %}
+
+---

@@ -5,6 +5,8 @@ permalink: /notes/
 published: true
 ---
 
+### Recent scribbles
+
 <div class="posts">
   {% for post in site.posts %}
     {% if post.type != "portfolio" %}

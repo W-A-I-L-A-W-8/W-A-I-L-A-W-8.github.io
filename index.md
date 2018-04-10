@@ -6,6 +6,8 @@ published: true
 
 ##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems. I am also an Umbraco Certified Expert and Shopify Partner.
 
+##### [Read more &rarr;](/about/)
+
 ---
 
 I do the following things pretty well:
@@ -32,30 +34,16 @@ I do the following things pretty well:
 
 ---
 
-##### Recent work
-There's more I can show you on request, just ask me.
+##### [Recent work &rarr;](/work/)
 
-{% for work in site.work %}
-
-    <h5><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h5>
-    
-{% endfor %}
-
-
-##### Recent scribbles
-
-{% for post in site.posts limit:2 %}
-  {% if post.type != "portfolio" %}
-
-    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-
-  {% endif %}
-{% endfor %}
-
-##### [Read more posts &rarr;](/notes/)
+##### [Recent scribbles &rarr;](/notes/)
 
 ---
 
 {% include review-jonny.html %}
 
 ---
+
+##### Kick-start a Project
+
+Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. Email me or connect on the social platforms below.
