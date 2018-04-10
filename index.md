@@ -36,7 +36,9 @@ I do the following things pretty well:
 There's more I can show you on request, just ask me.
 
 {% for work in site.work %}
+
     <h5><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h5>
+    
 {% endfor %}
 
 
@@ -44,7 +46,9 @@ There's more I can show you on request, just ask me.
 
 {% for post in site.posts limit:2 %}
   {% if post.type != "portfolio" %}
+
     <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+
   {% endif %}
 {% endfor %}
 
