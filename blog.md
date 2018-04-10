@@ -8,16 +8,16 @@ published: true
 <div class="posts">
   {% for post in site.posts %}
     {% if post.type != "portfolio" %}
-    <article class="post">
+    <!-- <article class="post"> -->
 
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
 
       <!--- <div class="entry">
         {{ post.excerpt | truncate: 25 }}
       </div> --->
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read &rarr;</a>
-    </article>
+    <!-- </article> -->
     {% endif %}
   {% endfor %}
 </div>

@@ -39,9 +39,9 @@ There's more I can show you on request, just ask me.
     <h5><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h5>
 {% endfor %}
 
----
 
 ##### Recent scribbles
+
 {% for post in site.posts limit:2 %}
   {% if post.type != "portfolio" %}
     <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
