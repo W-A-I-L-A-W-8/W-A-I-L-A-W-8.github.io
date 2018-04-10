@@ -128,11 +128,11 @@ html {
 }
 
 .icon-8 {
-  color: #6ed926;
-  fill: #6ed926;
+  color: $gray;
+  fill: $gray;
 }
 .icon-8:hover {
-  background: #6ed926;
+  background: #26d991;
 }
 
 .icon-9 {
@@ -168,8 +168,8 @@ html {
 }
 
 .icon-13 {
-  color: #26d991;
-  fill: #26d991;
+  color: $gray;
+  fill: $gray;
 }
 .icon-13:hover {
   background: #26d991;
@@ -200,11 +200,11 @@ html {
 }
 
 .icon-17 {
-  color: #2691d9;
-  fill: #2691d9;
+  color: $gray;
+  fill: $gray;
 }
 .icon-17:hover {
-  background: #2691d9;
+  background: #26d991;
 }
 
 .icon-18 {
@@ -272,11 +272,11 @@ html {
 }
 
 .icon-26 {
-  color: #d926b5;
-  fill: #d926b5;
+  color: $gray;
+  fill: $gray;
 }
 .icon-26:hover {
-  background: #d926b5;
+  background: #26d991;
 }
 
 .icon-27 {
@@ -493,6 +493,10 @@ img {
   img {
     border-radius: 50%;
     width: 70px;
+    -webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+filter: gray;
+filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' height='0'><filter id='greyscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0' /></filter></svg>#greyscale");
   }
 
   @include mobile {
