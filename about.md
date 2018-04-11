@@ -7,7 +7,7 @@ published: true
 
 ## My Story
 
-Born, year of the horse in a small market town in the UK, to parents from Hong Kong and laid back up bringing by the coast. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
+Born, year of the horse in a small market town in the UK, to parents from Hong Kong and a laid back up bringing by the coast. My name is Wai Law (pronounced **way**) and known to my closest buddies as **Waister**.
 
 {% include profile-image.html %}
 

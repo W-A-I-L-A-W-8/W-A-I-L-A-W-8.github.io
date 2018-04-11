@@ -14,9 +14,9 @@ published: true
 
 I do the following things pretty well:
 
-- **UI Design**, useful, functional experiences.
-- **Umbraco**, if it's Umbraco related, I can usually give it my best shot.
-- **Shopify**, my newest service, make an online shop that sells itself.
+- **UI Design**, useful, functional experiences for enterprise level solutions.
+- [**Umbraco CMS**](/wailaw-umbraco-certified-expert/), if it's Umbraco related, I can guide you towards the best solutions.
+- **Shopify**, my newest service, build an online shop that sells itself.
 
 ---
 
