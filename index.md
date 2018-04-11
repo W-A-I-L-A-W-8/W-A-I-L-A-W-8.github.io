@@ -6,7 +6,7 @@ published: true
 
 # UI, Umbraco, Shopify
 
-##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems. I am also an Umbraco Certified Expert and Shopify Partner.
+##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems and CMS web design. I am an Umbraco Certified Expert and Shopify Partner.
 
 ##### [Read more &rarr;](/about/)
 
@@ -15,7 +15,7 @@ published: true
 I do the following things pretty well:
 
 - **UI Design**, useful, functional experiences for enterprise level solutions.
-- [**Umbraco CMS**](/wailaw-umbraco-certified-expert/), if it's Umbraco related, I can guide you towards the best solutions.
+- [**Umbraco CMS**](/wailaw-umbraco-certified-expert/), UI/UX techniques for dynamic content applications.
 - **Shopify**, my newest service, build an online shop that sells itself.
 
 ---
