@@ -8,7 +8,11 @@ published: true
 
 ##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems and CMS web design. I am an Umbraco Certified Expert and Shopify Partner.
 
-##### [Read more &rarr;](/about/)
+##### [Read more about Umbraco &rarr;](/wailaw-umbraco-certified-expert/)
+
+###### Or
+
+##### [Read a bit about my background &rarr;](/about/)
 
 ---
 
