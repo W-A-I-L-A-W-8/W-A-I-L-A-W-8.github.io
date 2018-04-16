@@ -18,9 +18,9 @@ published: true
 
 I do the following things pretty well:
 
-- **UI Design**, useful, functional experiences for enterprise level solutions.
-- [**Umbraco CMS**](/wailaw-umbraco-certified-expert/), UI/UX techniques for dynamic content applications.
-- **Shopify**, my newest service, build an online shop that sells itself.
+- **_UI Design_**, useful, functional experiences for enterprise level solutions.
+- [**_Umbraco CMS_**](/wailaw-umbraco-certified-expert/), UI/UX techniques for dynamic content applications.
+- [**_Shopify_**](/wailaw-shopify-partner/), online stores that sell themselves.
 
 ---
 

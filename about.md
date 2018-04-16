@@ -46,5 +46,3 @@ I have a section on this website where I write about random things and stuff I h
 ---
 
 {% include/review-wildfrontiersfoundation.html %}
-
----
