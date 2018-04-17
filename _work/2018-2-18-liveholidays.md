@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Live Holidays Travel Group
+title: Live Holidays Travel Group, A UX/UI Exercise for all brands
 published: true
 ---
 

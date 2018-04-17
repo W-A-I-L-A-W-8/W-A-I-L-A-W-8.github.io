@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Recent work
-There's more I can show you on request, just ask me.
+More examples of my work can be provided on request.
 
 <div class="posts">
   {% for work in site.work %}

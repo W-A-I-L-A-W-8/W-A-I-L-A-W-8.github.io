@@ -2,7 +2,7 @@
 layout: page
 title: Reviews
 permalink: /reviews/
-published: true
+published: false
 ---
 
 # Thanks for your Kind Words

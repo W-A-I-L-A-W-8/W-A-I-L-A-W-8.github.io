@@ -1,18 +1,16 @@
 ---
 layout: work
-title: Creative Bakes by Claire
+title: Cox & Kings Site Overhaul
 published: true
 ---
 
 ## Background
-The owner of this business is a friend of mine. Claire was unhappy with her previous developer and fed up with WordPress so asked me for some advice. I began by migrating the website to my shared server so we could take control of it.
+Cox & Kings is a niche, luxury, bespoke travel organisation and longest established travel company in the world.  Its headquarters in the UK overlooks the banks of the River Thames in London.  I was referred to the company by a friend who also worked there and was originally employed in a more technical marketing role using research and my Google Analytics skills to improve overall experience and reduce bounce rate.  During the restructuring of various departments I also became involved in the front end design side.  
 
-## Redesign
-We then came up with a concept to redesign the website. We made a child theme from the Kale WordPress theme and began customisation. With Bootstrap as the foundation the site is now mobile friendly. Claire was originally loading all her article content onto a single text page and her old developer had disabled all post functionality. To make it an easier process for her I enabled posting and created some categories and tags for her. She can now post news, blogs, articles using the post feature and add her categories. For display there is a stream on the homepage and category links in the sidebar so her users can navigate around freely.
+## Site Overhaul
+In 2014 we worked on the redesign of the outdated existing website bringing it up to modern standards and making it mobile responsive.  It was also migrated to a bespoke CMS and CRM instantly automating the whole reservation system and also allowing users to see in real-time what was currently available and to view related special offers.  More importantly this speeded up the reservation system and also allowed Travel Consultants to quote based on the most current availability.
 
-{% include review-creativebakes.html %}
+I was heavily involved in client-side design and project managed these developments.  Working closely with the Digital Manager we also created a content plan and strategy including a way to incorporate video into the marketing mix.  Third party promotions using my landing page designs and EDM campaigns were used to drive increasing traffic to the site alongside the production of other digital content and incentives.
 
-## Much, much better
-With the improvements and added functionality Claire is much happier again and can see the power of WordPress when developed properly. To make her editing experience more painless I have activated the White Label plugin and set up editor rights with a cleaner and clearer interface to allow her to concentrate on the editing of her content.
-
-![Claires Creative Bakes](https://creativepool.com/files/candidate/portfolio/_w680/1268156.jpg)
+## In Summary
+Ensuring that content was accurate and adhered to company branding was hugely significant.  Creating new initiatives for the Cox & Kings website continuously improved overall user experience and interaction, achieving longer visit times and lower bounce rates.  Design wise, the website was simplified and increased functionality for users improving overall experience and conversion rates.
