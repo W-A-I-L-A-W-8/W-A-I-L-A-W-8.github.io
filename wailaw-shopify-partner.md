@@ -30,6 +30,8 @@ published: true
 - Keep your customer’s data secure with PCI Level 1 Compliant checkout
 - Shopify is always adding free new features to help you sell
 
+---
+
 ## Services:
 
 ### Setup
@@ -40,5 +42,7 @@ Do you need help tweaking a template or creating a design from scratch for your 
 
 ### Marketing
 Attract more customers and boost sales by building brand awareness, optimising SEO, and launching social media campaigns.
+
+---
 
 ## Get started today!
