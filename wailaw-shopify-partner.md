@@ -5,7 +5,7 @@ permalink: /wailaw-shopify-partner/
 published: true
 ---
 
-## Sell easy with a Shopify Store
+## Ecommerce tailored to your business
 
 ---
 
@@ -32,16 +32,22 @@ published: true
 
 ---
 
-## Services:
+## Our Services:
 
-### Setup
-Help to successfully launch your business online or seamlessly migrate your shop from another platform.
+### Tailored Store Setup - _AUD$1995_
+We can help you to successfully launch your business online, set up a theme and optimise it or seamlessly migrate your shop from another platform if required.
 
-### Design
+### Custom Design
 Do you need help tweaking a template or creating a design from scratch for your beautifully, customised online store.
+- [Please get in touch for a custom quote and to discuss your requirements](mailto:hello@wailaw.me).
 
-### Marketing
-Attract more customers and boost sales by building brand awareness, optimising SEO, and launching social media campaigns.
+### Custom Design including UX/UI process
+Same benefits as the Custom Design package above but we also help with the user experience process to make your design as usable and as appealing to your users as possible. To do this we reach out to your users or your target audience adopting a number of methods such as questionnaires, focus group discussions, online testing and user journey maps. This will help you identify what your target audience really wants. The UI or User Interface design part is concerned with the look and feel of your store using the information gathered during the UX process. Here we seek to make your Shopify store clutter-free and functional.
+- [Please get in touch for a custom quote and to discuss your requirements](mailto:hello@wailaw.me).
+
+### Custom Development
+Design and develop a store that is tailored to your exact requirements.
+- [Please get in touch for a custom quote and to discuss your requirements](mailto:hello@wailaw.me).
 
 ---
 
