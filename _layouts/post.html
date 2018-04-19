@@ -2,9 +2,11 @@
 layout: default
 ---
 
+<h6><a href="{{ site.baseurl }}/notes">&larr; More Scribbles</a></h6>
+
 <!-- Main Article Content -->
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h2>{{ page.title }}</h2>
 
   <div class="entry">
     {{ content }}
@@ -29,7 +31,7 @@ layout: default
 
   <!-- Related Posts -->
   <div class="related">
-      <h2>Other Posts</h2>
+      <h2>Alternate Scribbles</h2>
       <ul>
         {% for post in site.related_posts limit:3 %}
           {% if post.type != "portfolio" %}
