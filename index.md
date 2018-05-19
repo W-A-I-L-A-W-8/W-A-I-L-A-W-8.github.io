@@ -24,7 +24,7 @@ I do the following things pretty well:
 
 ---
 
-##### [Hiring managers, you can get my resume here &rarr;](/docs/cv-webDesignUIUX_wailaw.pdf/)
+##### [Hiring managers, you can get my resume here &rarr;](/docs/WaiLaw-UI-UX-Design-CV.pdf/)
 
 ---
 
@@ -34,7 +34,7 @@ I do the following things pretty well:
 
 ##### What I have been up to
 
-- Emigrated to Melbourne, Australia two months ago.
+- Emigrated to Melbourne, Australia earlier this year.
 - Contracting at a well known Digital Transformation Specialist designing UI.
 - Built this website on Jekyll a few months ago, forever making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
 
