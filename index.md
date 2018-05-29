@@ -4,9 +4,9 @@ title: Home
 published: true
 ---
 
-# UI, Umbraco, Shopify
+# Design to win your users over
 
-##### I'm Wai, I'm a small business (one-man band) thriving on solving interface problems and CMS web design. I am an Umbraco Certified Expert and Shopify Partner.
+##### I'm Wai, a UI Designer and Umbraco Certified Expert thriving on solving interface problems for your content managed applications.
 
 ##### [Read more about Umbraco &rarr;](/wailaw-umbraco-certified-expert/)
 
