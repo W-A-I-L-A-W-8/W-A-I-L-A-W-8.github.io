@@ -10,17 +10,19 @@ published: true
 
 ##### [Read more about Umbraco &rarr;](/wailaw-umbraco-certified-expert/)
 
-###### Or
+##### [Read my case studies on Behance &rarr;](https://www.behance.net/jwchunglaweec1)
 
 ##### [Read a bit about my background &rarr;](/about/)
+
+##### [Recent scribbles &rarr;](/notes/)
 
 ---
 
 I do the following things pretty well:
 
-- **_UI Design_**, useful, functional experiences for enterprise level solutions.
+- **_UI Design_**, simple, familiar, functional experiences for enterprise level solutions.
 - [**_Umbraco CMS_**](/wailaw-umbraco-certified-expert/), UI/UX techniques for dynamic content applications.
-- [**_Shopify_**](/wailaw-shopify-partner/), online stores that sell themselves.
+- [**_Shopify_**](/wailaw-shopify-partner/), UX for online stores.
 
 ---
 
@@ -35,14 +37,12 @@ I do the following things pretty well:
 ##### What I have been up to
 
 - Emigrated to Melbourne, Australia earlier this year.
-- Contracting at a well known Digital Transformation Specialist designing UI.
-- Built this website on Jekyll a few months ago, forever making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
+- Contracting at niche Digital Transformation Specialist consulting on UI.
+- Built this website on Jekyll a few months ago, endlessly making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
 
 ---
 
 ##### [Recent work &rarr;](/work/)
-
-##### [Recent scribbles &rarr;](/notes/)
 
 ---
 
