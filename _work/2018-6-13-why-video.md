@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: Great Marketing with Video or motion graphics
 published: true
 ---
@@ -8,6 +8,8 @@ published: true
 Here's a kinetic typography graphic I created to illustrate why video is a consumer centric tool.
 
 {% include youtube.html youtube_id="VgIPMffAnoo" %}
+
+---
 
 ## Video is great marketing
 

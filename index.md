@@ -8,9 +8,9 @@ published: true
 
 ##### I'm Wai, a UI Designer and Umbraco Certified Expert thriving on solving interface problems for your content managed applications.
 
-##### [Read more about Umbraco &rarr;](/wailaw-umbraco-certified-expert/)
-
 ##### [Read my case studies on Behance &rarr;](https://www.behance.net/jwchunglaweec1)
+
+##### [Read more about Umbraco &rarr;](/wailaw-umbraco-certified-expert/)
 
 ##### [Read a bit about my background &rarr;](/about/)
 

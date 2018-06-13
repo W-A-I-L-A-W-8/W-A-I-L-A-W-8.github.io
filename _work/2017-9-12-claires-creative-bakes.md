@@ -10,10 +10,10 @@ The owner of this business was unhappy with their previous developer and fed up 
 ## Relaying the foundations
 We then came up with a concept to redesign the website. It was clear that the previous iteration was no use anymore and the whole experience needed a rethink.  I made a child theme from the Kale WordPress theme and began my customisation. With Bootstrap as the foundation the site immediately friendly across all devices. The owner was originally loading all article content onto a single text page using a an RTE and I discovered that the previous developer had disabled all post functionality.
 
-# Editor Experience
+## Editor Experience
 From the editor-side the interface could be made easier by simply enabling posting and creating categories and tags. Now enabled, posting news, blogs, articles can be done through the post feature and adding categories.
 
-# Client-side
+## Client-side
 For the user the page is displayed using a classic blog view, there is a post stream on the homepage and category links in the sidebar so her users can navigate around freely.  The top navigation is clear with only high-level items showing.
 
 {% include review-creativebakes.html %}
