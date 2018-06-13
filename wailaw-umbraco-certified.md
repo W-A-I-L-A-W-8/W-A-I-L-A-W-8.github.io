@@ -22,3 +22,5 @@ Umbraco is strongly supported by both an active and welcoming community of users
 ##### Help with Umbraco
 
 I'm interested to hear about your Umbraco related project.  I can advise on Umbraco set-up, migration, template design, customisation and extending the UI.  Web design agencies, if you've come across a client with an Umbraco site but it's not your forte I can help and point you towards the right direction.  I invite you to get in touch with your questions.  Many thanks!
+
+![Umbraco Certified Expert](/images/work/umbraco-certificate-wailaw.png)

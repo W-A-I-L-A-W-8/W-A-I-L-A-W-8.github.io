@@ -37,7 +37,7 @@ I do the following things pretty well:
 ##### What I have been up to
 
 - Emigrated to Melbourne, Australia earlier this year.
-- Contracting at niche Digital Transformation Specialist consulting on UI.
+- Consulting at niche Digital Transformation Specialist on UX/UI.
 - Built this website on Jekyll a few months ago, endlessly making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
 
 ---
