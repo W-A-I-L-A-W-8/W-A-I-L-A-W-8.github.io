@@ -36,9 +36,10 @@ I do the following things pretty well:
 
 ##### What I have been up to
 
-- Emigrated to Melbourne, Australia earlier this year.
-- Consulting at niche Digital Transformation Specialist on UX/UI.
-- Built this website on Jekyll a few months ago, endlessly making UX improvements and adding more useful functionality to it such as; configuring 'collections' which this page is part of and including categories.
+- Emigrated to Melbourne, Australia earlier this year. Still in settling in mode.
+- Finished consulting at niche Digital Transformation Specialist on UX/UI.
+- Overseeing the design process for web solutions, systems and apps for products within The AOT Group and Helloworld Ltd.
+- Built this website on Jekyll a few months ago, continuously making UX improvements and including useful functionality such as; configuring 'collections' which this page is part of and including categories.
 
 ---
 
@@ -50,6 +51,6 @@ I do the following things pretty well:
 
 ---
 
-##### Kick-start a Project
+##### Talk about a project
 
-Do you have a project I can help with? or you might have some queries and wish to get in touch. Either way, I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
+Do you have a project you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
