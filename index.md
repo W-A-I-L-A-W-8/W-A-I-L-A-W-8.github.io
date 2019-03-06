@@ -10,6 +10,7 @@ published: true
 
 ---
 
+##### [Read about how my CMS and Umbraco experience could add value to your organisation &rarr;](/wailaw-umbraco-certified-expert/)
 ##### [Hiring managers, you can get my resume here &rarr;](/docs/WaiLaw-UI-UX-Design-CV.pdf/)
 
 ---
