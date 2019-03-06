@@ -7,7 +7,7 @@ published: true
 
 ## What is an Umbraco Certified Expert
 
-Umbraco Certified Expert is a developer who has an expanded understanding of Umbraco. This is achieved by attending multiple training courses on both the fundamentals and developer specialisations. As a certified expert I know the full development lifecycle of an Umbraco website, can manage advanced projects and practice UX/UI techniques specific to dynamic content-driven applications.
+Umbraco Certified Expert is a designer or developer who has an expanded understanding of Umbraco. This is achieved by attending multiple courses on both the fundamentals and developer specialisations. As a certified expert I understand the full development lifecycle of a web system or application which enables me to manage advanced projects and practice UX/UI techniques specific to dynamic content-driven applications.
 
 ---
 
@@ -19,8 +19,8 @@ Umbraco is strongly supported by both an active and welcoming community of users
 
 ---
 
-##### Help with Umbraco
+##### Help with CMS implementation
 
-I'm interested to hear about your Umbraco related project.  I can advise on Umbraco set-up, migration, template design, customisation and extending the UI.  Web design agencies, if you've come across a client with an Umbraco site but it's not your forte I can help and point you towards the right direction.  I invite you to get in touch with your questions.  Many thanks!
+I'm would be more than interested to hear about your project. I can advise on the most suitable approach and solution, the set-up, migration, design, customisation and extending the UI. I invite you to get in touch with your questions. Many thanks!
 
 ![Umbraco Certified Expert](/images/work/umbraco-certificate-wailaw.png)
