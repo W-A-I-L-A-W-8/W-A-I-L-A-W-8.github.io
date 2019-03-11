@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Recent work
-More examples of my work can be provided on request.  You will also find more examples of my work on [Behance &rarr;](https://www.behance.net/jwchunglaweec1)
+More examples of my work can be provided on request.  You will also find project snippets on my [Behance &rarr;](https://www.behance.net/jwchunglaweec1)
 
 <div class="posts">
   {% for work in site.work %}
