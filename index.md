@@ -4,7 +4,8 @@ title: Home
 published: true
 ---
 
-# Design to win your users over.
+# Design to win your users over
+
 
 ##### I'm Wai, a design practitioner thriving on solving interface problems for your digital products.
 
@@ -22,7 +23,7 @@ published: true
 ##### Current career path.
 
 - Previously consulting UX at niche Digital Transformation Specialist.
-- Now overseeing the design process and involved in the digital transformation of web systems and applications within the Tech Division of The AOT Group and Helloworld Ltd.
+- Now overseeing the design process involving the digital transformation of system and applications across the Tech Division of The AOT Group and Helloworld Ltd.
 
 ---
 
@@ -37,4 +38,4 @@ published: true
 
 ##### Discuss an opportunity.
 
-Do you have a project you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
+Have a project you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.

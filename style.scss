@@ -493,6 +493,8 @@ img {
   img {
     border-radius: 50%;
     width: 60px;
+    display: block;
+    margin: 30px auto 0 auto;
   }
 
   @include mobile {
