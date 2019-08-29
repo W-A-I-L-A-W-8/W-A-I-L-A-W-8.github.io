@@ -20,15 +20,10 @@ published: true
 
 ---
 
-##### Current career path.
+##### Career Information.
 
-- Previously consulting UX at niche Digital Transformation Specialist.
-- Now overseeing the design process involving the digital transformation of system and applications across the Tech Division of The AOT Group and Helloworld Ltd.
-
----
-
-##### [Recent scribbles &rarr;](/notes/)
-##### [Some previous work &rarr;](/work/)
+- Previously consulting at a niche Digital Transformation Specialist on a large national project.
+- Currently overseeing the design process involving, the digital transformation of systems and applications across multiple stakeholder branded services at The AOT Group and Helloworld Ltd.
 
 ---
 
@@ -39,3 +34,8 @@ published: true
 ##### Discuss an opportunity.
 
 Have a project you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
+
+---
+
+##### [Recent scribbles &rarr;](/notes/)
+##### [Some previous work &rarr;](/work/)
