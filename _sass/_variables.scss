@@ -17,9 +17,8 @@ $transWhite: rgba(255,255,255,0.3);
 $bgdark: #1e1e1e;
 
 // Font stacks
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$worksans: 'Work Sans', sans-serif;
 $prozalibre: 'Proza Libre', sans-serif;
+$mainfont: 'Space Mono', monospace;
 
 // Mobile breakpoints
 @mixin mobile {
