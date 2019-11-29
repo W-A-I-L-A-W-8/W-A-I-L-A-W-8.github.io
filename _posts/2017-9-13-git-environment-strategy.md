@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: post
 title: Sketch of our GIT branch environment strategy
 published: true
 ---

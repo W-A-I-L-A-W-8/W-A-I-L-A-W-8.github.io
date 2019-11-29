@@ -22,8 +22,8 @@ published: true
 
 ##### Career Information.
 
-- Previously consulting at a niche Digital Transformation Specialist on a large national project.
-- Currently overseeing the design process involving, the digital transformation of systems and applications across multiple stakeholder branded services at The AOT Group and Helloworld Ltd.
+- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of SaaS suites in the travel space.
+- Previously consulting and delivering design solutions at a boutique digital transformation specialist on a large-scale telecommunications service.
 
 ---
 
