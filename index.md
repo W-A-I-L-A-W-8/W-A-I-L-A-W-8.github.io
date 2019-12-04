@@ -7,12 +7,16 @@ published: true
 # Design to win your users over
 
 
-##### I'm Wai, a design practitioner thriving on solving interface problems for your digital products.
+##### I'm Wai, a design practitioner thriving on solving complex, interface problems for enterprise.
 
 ---
 
-##### [Read about how my CMS and Umbraco experience could add value to your organisation &rarr;](/wailaw-umbraco-certified-expert/)
-##### [Hiring managers, you can get my resume here &rarr;](/docs/WaiLaw-UI-UX-Design-CV.pdf/)
+##### Career Information.
+
+- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of SaaS suites in the travel space.
+- Previously consulting and delivering design solutions at a boutique digital transformation specialist working on a nation changing, telecommunications service.
+
+##### [Hiring managers, you can get my resume here &rarr;](/docs/WaiLawSeniorUIUXDesignerWebCV.pdf/)
 
 ---
 
@@ -20,10 +24,7 @@ published: true
 
 ---
 
-##### Career Information.
-
-- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of SaaS suites in the travel space.
-- Previously consulting and delivering design solutions at a boutique digital transformation specialist on a large-scale telecommunications service.
+##### [Read about how my CMS experience could add value to your organisation &rarr;](/wailaw-umbraco-certified-expert/)
 
 ---
 
@@ -38,4 +39,3 @@ Have a project you wish to discuss? I would relish the opportunity to hear from 
 ---
 
 ##### [Recent scribbles &rarr;](/notes/)
-##### [Some previous work &rarr;](/work/)
