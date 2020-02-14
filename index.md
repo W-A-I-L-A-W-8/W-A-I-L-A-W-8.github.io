@@ -4,7 +4,7 @@ title: Home
 published: true
 ---
 
-# Design to win your users over
+# Helping you to realise your vision
 
 
 ##### I'm Wai, a design practitioner thriving on solving complex, interface problems for enterprise.
