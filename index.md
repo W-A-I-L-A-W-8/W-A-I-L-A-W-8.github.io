@@ -16,7 +16,7 @@ published: true
 - Currently overseeing the design process involving, the digital transformation of systems and applications across a range of product suites in the travel tech space.
 - Previously consulting and delivering design solutions at a boutique digital transformation specialist, specifically formulated for the telco arena.
 
-##### [Hiring managers, you can get my resume here &rarr;](/docs/WaiLawSeniorUIUXDesignerWebCV.pdf/)
+##### [Dear Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
 
 ---
 
