@@ -7,7 +7,7 @@ published: true
 # Helping you to realise your vision
 
 
-##### I'm Wai, a design practitioner thriving on solving complex, interface problems for your enterprise. My strength is focussing on the needs of your business and translating them into design that converts.
+##### I'm Wai, a design practitioner thriving on solving complex, interface problems for your enterprise. My primary focus is the product experience, the needs of your business and translating them into design that converts.
 
 ---
 
