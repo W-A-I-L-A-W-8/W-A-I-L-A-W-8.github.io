@@ -20,6 +20,11 @@ published: true
 
 ---
 
+##### [Stories and Scribbles &rarr;](/storiesandscribbles/)
+Insightful and random tech related rambles...And yes, if you're looking for it, you may find the odd piece of project related narrative.
+
+---
+
 {% include review-mike.html %}
 
 ---
@@ -37,6 +42,3 @@ published: true
 Have a product you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
 
 ---
-
-##### [Stories and Scribbles &rarr;](/storiesandscribbles/)
-Insightful and random tech related rambles...And yes, if you're looking for it, you may find the odd piece of project related narrative.
