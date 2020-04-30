@@ -1,17 +1,17 @@
 ---
-layout: work
-title: Great Marketing with Video or motion graphics
+layout: post
+title: Get consumer centric with motion
 published: true
 ---
 
 # Why Video?
-Here's a kinetic typography graphic I created to illustrate why video is a consumer centric tool.
+Here's a simple kinetic typography graphic I created to illustrate why video is a consumer centric tool.
 
 {% include youtube.html youtube_id="VgIPMffAnoo" %}
 
 ---
 
-## Video is great marketing
+## Video is a great story teller
 
 Video is an effective medium for conveying your brand's message quickly. Viewers retain 95% of a message.
 

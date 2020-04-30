@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: post
 title: A tale of responsiveness (or rather, lack of it)
 published: true
 ---
