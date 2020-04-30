@@ -6,7 +6,7 @@ published: true
 
 Once in while you could asked to knock-up some quick UI concepts.  You could prospecting for a new role or your existing may require some sort of POC.  Commonly, they'll have nothing to give you in terms of a brief or a spec.  This is pretty standard.  It is even more common that you will be given a screen grab of a previous or current design that they are wishing to improve upon.  This is commonly known in the field as a design challenge.  The idea being to tease your creativity and tease out some new ideas.
 
-# "Here's one I made earlier"
+## "Here's one I made earlier"
 (Quote; Blue Peter, well known British kids TV show)
 
 It has been some time since I've completed one of these but here's an example from a couple of years ago.  In the screen below that I was given to work on.  It's an interface used by a cyber security company to capture some staple data at a glance for the user.
@@ -15,13 +15,13 @@ It has been some time since I've completed one of these but here's an example fr
 
 ---
 
-# The Approach
+## The Approach
 
-## 1. Pick a Tool
+### 1. Pick a Tool
 
 I would recommend using a tool you're familiar with as the learning curve associated with learning something new will inevitably add time to your challenge. So go with Sketch, XD, whatever floats your boat. Choosing to ignore my own advice I decided to fire up a trial version of MockPlus.
 
-## 2. Apply some UX fundamentals
+### 2. Apply some UX fundamentals
 This dashboard was looking some what cluttered and a bit dated.  It was in need of a quick makeover.  I took some time to review the challenge and the screen above and attempted to get into my 'Experience Design' head-space.  I viewed it from a user's perspective to see which elements in the interface were causing me the most cognitive friction.  I was attempting to anticipate the overall feel for the user.
 
 Next step...apply some of the principles of how a good user interface should look.

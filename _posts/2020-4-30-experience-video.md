@@ -4,7 +4,6 @@ title: Get consumer centric with motion
 published: true
 ---
 
-# Why Video?
 Here's a simple kinetic typography graphic I created to illustrate why video is a consumer centric tool.
 
 {% include youtube.html youtube_id="VgIPMffAnoo" %}
