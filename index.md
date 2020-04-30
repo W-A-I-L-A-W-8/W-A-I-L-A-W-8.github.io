@@ -38,4 +38,5 @@ Have a product you wish to discuss? I would relish the opportunity to hear from 
 
 ---
 
-##### [Recent scribbles &rarr;](/notes/)
+##### [Stories and Scribbles &rarr;](/notes/)
+Insightful and random tech related posts.
