@@ -5,7 +5,7 @@ permalink: /notes/
 published: true
 ---
 
-## Recent scribbles
+## Stories and Scribbles
 
 <div class="posts">
   {% for post in site.posts %}
