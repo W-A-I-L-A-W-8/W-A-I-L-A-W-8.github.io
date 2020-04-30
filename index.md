@@ -38,5 +38,5 @@ Have a product you wish to discuss? I would relish the opportunity to hear from 
 
 ---
 
-##### [Stories and Scribbles &rarr;](/notes/)
+##### [Stories and Scribbles &rarr;](/storiesandscribbles/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you may find the odd piece of project related narrative.
