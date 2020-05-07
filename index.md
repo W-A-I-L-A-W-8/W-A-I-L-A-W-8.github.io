@@ -6,7 +6,7 @@ published: true
 
 # Helping you to realise your vision
 
-##### I'm Wai, a design practitioner thriving on solving complex, interface problems for your enterprise. My primary focus is the product experience based on the needs of your business and translating them into design that converts.
+##### I'm Wai, a design practitioner thriving on solving complex, interface problems for enterprise. I dedicate my time to finding solutions that offer the most valuable and fulfilling experiences.
 
 ---
 
@@ -15,7 +15,7 @@ published: true
 - Currently overseeing the design process involving, the digital transformation of systems and applications across a range of product suites in the travel tech space.
 - Previously consulting and delivering design solutions at a boutique digital transformation specialist, specifically formulated for the telco arena.
 
-##### [Dear Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
+##### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
 
 ---
 
@@ -26,9 +26,7 @@ Insightful and random tech related rambles...And yes, if you're looking for it, 
 
 {% include review-mike.html %}
 
----
-
-##### [Read about how my CMS experience could add value to your organisation &rarr;](/wailaw-umbraco-certified-expert/)
+<!-- ##### [Read about how my CMS experience could add value to your organisation &rarr;](/wailaw-umbraco-certified-expert/) -->
 
 ---
 
