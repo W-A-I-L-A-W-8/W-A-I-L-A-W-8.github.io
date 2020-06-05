@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes
-permalink: /storiesandscribbles/
+permalink: /workandnotes/
 published: true
 ---
 
