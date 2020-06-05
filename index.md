@@ -6,20 +6,20 @@ published: true
 
 # Helping you to realise your vision
 
-##### I'm Wai, a design practitioner thriving on solving complex, interface problems for enterprise. I dedicate my time to finding solutions that offer the most valuable and fulfilling experiences.
+##### I'm Wai, a Product Designer thriving on solving complex, interface problems for enterprise. I don't just focus on features for the sake of it. I find valuable solutions that offer the richest experience tailored to your business.
 
 ---
 
-##### Career Information.
+##### Career Information in Brief.
 
-- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of product suites in the travel tech space.
-- Previously consulting and delivering design solutions at a boutique digital transformation specialist, specifically formulated for the telco arena.
+- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of products in the travel tech space.
+- Previously consulting on a bespoke satelite related project the telecommunications sector.
 
 ##### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
 
 ---
 
-##### [Stories and Scribbles &rarr;](/storiesandscribbles/)
+##### [Work and Notes &rarr;](/storiesandscribbles/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you may find the odd piece of project related narrative.
 
 ---
@@ -36,6 +36,6 @@ Insightful and random tech related rambles...And yes, if you're looking for it, 
 
 ##### Discuss an opportunity.
 
-Have a product you wish to discuss? I would relish the opportunity to hear from you. [Email me](mailto:hello@wailaw.me) or connect on the social platforms below.
+Have a product you wish to discuss? I would relish the opportunity to hear about it. [Hit me on](mailto:hello@wailaw.me).
 
 ---
