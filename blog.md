@@ -5,7 +5,7 @@ permalink: /workandnotes/
 published: true
 ---
 
-## Stories and Scribbles
+## Work and Notes
 
 <div class="posts">
   {% for post in site.posts %}
