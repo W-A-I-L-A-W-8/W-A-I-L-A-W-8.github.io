@@ -19,7 +19,7 @@ published: true
 
 ---
 
-##### [Work and Notes &rarr;](/storiesandscribbles/)
+##### [Work and Notes &rarr;](/workandnotes/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you will find the odd piece of project related narrative.
 
 ---
