@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Umbraco, enable the text-color picker on the rich text editor and add custom colours
-published: true
+published: false
 categories: [Umbraco, CMS]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remove url extensions from static site pages using .htaccess
-published: true
+published: false
 categories: Useful
 ---
 

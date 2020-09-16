@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP code for updating the year automatically in WordPress
-published: true
+published: false
 categories: [WordPress, CMS]
 ---
 

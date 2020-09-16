@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cache Leveraging
-published: true
+published: false
 navigation_weight: 1
 categories: Front-end
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starting a simple local server on MAC from any directory
-published: true
+published: false
 categories: Useful
 ---
 

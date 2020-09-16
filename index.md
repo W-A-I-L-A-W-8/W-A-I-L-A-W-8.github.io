@@ -36,6 +36,6 @@ Insightful and random tech related rambles...And yes, if you're looking for it, 
 
 ##### Discuss an opportunity.
 
-Have a product you wish to discuss? I would relish the opportunity to hear about it. [Hit me on](mailto:hello@wailaw.me).
+Have a product you wish to discuss? I would relish the opportunity to hear about it. [Hit me on hello@wailaw.me](mailto:hello@wailaw.me).
 
 ---

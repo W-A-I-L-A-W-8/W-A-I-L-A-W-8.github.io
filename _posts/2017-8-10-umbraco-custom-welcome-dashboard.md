@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create an Umbraco custom welcome dashboard
-published: true
+published: false
 categories: [Umbraco, CMS]
 ---
 
