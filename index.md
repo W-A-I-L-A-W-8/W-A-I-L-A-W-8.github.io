@@ -19,7 +19,7 @@ published: true
 
 ---
 
-##### [Projects &rarr;](/workandnotes/)
+##### [Projects &rarr;](/projects/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you will find the odd piece of project related narrative.
 
 ---

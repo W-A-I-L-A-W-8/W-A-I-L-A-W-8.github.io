@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Notes
-permalink: /workandnotes/
+permalink: /projects/
 published: true
 ---
 
-## Work and Notes
+## Projects
 
 <div class="posts">
   {% for post in site.posts %}
