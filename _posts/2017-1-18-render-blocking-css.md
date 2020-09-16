@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anti-render blocking CSS
-published: true
+published: false
 navigation_weight: 1
 categories: Front-end
 ---
