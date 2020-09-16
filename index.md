@@ -10,16 +10,16 @@ published: true
 
 ---
 
-##### Career Information in Brief.
+### Summary of recent vocations.
 
 - Currently, overseeing the design process involving, the digital transformation of systems and applications across a range of products in the travel tech space.
 - Previously consulting on a NDA bespoke satellite related project in the telecommunications sector.
 
-##### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
+### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
 
 ---
 
-##### [Projects &rarr;](/projects/)
+### [Projects &rarr;](/projects/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you will find the odd piece of project related narrative.
 
 ---
@@ -34,7 +34,7 @@ Insightful and random tech related rambles...And yes, if you're looking for it, 
 
 ---
 
-##### Discuss an opportunity.
+### Discuss an opportunity.
 
 Have a product you wish to discuss? I would relish the opportunity to hear about it. [Hit me on hello@wailaw.me](mailto:hello@wailaw.me).
 
