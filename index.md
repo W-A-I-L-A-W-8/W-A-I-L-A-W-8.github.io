@@ -4,22 +4,22 @@ title: Home
 published: true
 ---
 
-# Helping you to realise your vision
+# wailaw
 
-##### I'm Wai, a Product Designer thriving on solving complex, interface problems for enterprise. I don't just focus on features for the sake of it. I find valuable solutions that offer the richest experience tailored to your business.
+##### A design practitioner adopting a LEAN and human centred approach with a business focus. A student of HCI with experience formulating ethical AI/ML strategies. Thriving on relieving pain points for your organisation. A seasoned producer of effective interface guidelines.
 
 ---
 
 ##### Career Information in Brief.
 
-- Currently overseeing the design process involving, the digital transformation of systems and applications across a range of products in the travel tech space.
-- Previously consulting on a bespoke satelite related project the telecommunications sector.
+- Currently, overseeing the design process involving, the digital transformation of systems and applications across a range of products in the travel tech space.
+- Previously consulting on a NDA bespoke satellite related project in the telecommunications sector.
 
 ##### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
 
 ---
 
-##### [Work and Notes &rarr;](/workandnotes/)
+##### [Projects &rarr;](/workandnotes/)
 Insightful and random tech related rambles...And yes, if you're looking for it, you will find the odd piece of project related narrative.
 
 ---
