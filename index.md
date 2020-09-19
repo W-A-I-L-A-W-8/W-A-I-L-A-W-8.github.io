@@ -15,7 +15,7 @@ published: true
 - Currently, overseeing the design process involving, the digital transformation of systems and applications across a range of products in the travel tech space.
 - Previously consulting on a NDA bespoke satellite related project in the telecommunications sector.
 
-### [Hiring Managers, get my resume here &rarr;](/docs/WaiLaw-SeniorDesigner-ProductUXUI-CV.pdf/)
+### [Hiring Managers, get my resume here &rarr;](https://wailaw.me/resume-online/)
 
 ---
 
