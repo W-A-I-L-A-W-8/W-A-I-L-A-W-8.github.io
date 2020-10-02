@@ -3,10 +3,10 @@ title: Exploring AI
 subtitle: Introducing our new friend, Smart Travel Assistant
 date: 2020-09-03 00:00:00
 description: This piece is about how we developed a strategy for implenting an AI/ML solution to align with the organisation's strategic priorities and to solve immediate problems.
-featured_image: chatbot-1.png
-accent_color: '#222'
-gallery_images:
-  - chatbot-1.png
+# featured_image: chatbot-1.png
+# accent_color: '#222'
+# gallery_images:
+#   - chatbot-1.png
 ---
 
 ![Exploring AI](../images/projects/chatbot-1.png)
