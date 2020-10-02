@@ -6,7 +6,7 @@ published: true
 
 # wailaw
 
-##### A design practitioner adopting a LEAN and human centred approach with a business focus. A student of HCI with experience formulating ethical AI/ML strategies. Thriving on relieving pain points for your organisation. A seasoned producer of effective interface guidelines.
+### A design practitioner adopting a LEAN and human centred approach with a business focus. A student of HCI with experience formulating ethical AI/ML strategies. Thriving on relieving pain points for your organisation. A seasoned producer of effective interface guidelines.
 
 ---
 
